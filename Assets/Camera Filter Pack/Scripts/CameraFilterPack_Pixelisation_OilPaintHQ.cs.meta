@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20f7a5a3dd2211d46b3df1c1e2c36c8d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Pixelisation_OilPaintHQ.cs
+  uploadId: 399766

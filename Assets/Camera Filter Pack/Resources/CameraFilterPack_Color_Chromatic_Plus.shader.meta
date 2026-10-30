@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 44acc91cb9f40ab47a71c88c6d702a4f
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Color_Chromatic_Plus.shader
+  uploadId: 399766

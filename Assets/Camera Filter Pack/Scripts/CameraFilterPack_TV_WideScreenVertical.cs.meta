@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9a7db78372a8d4418c46c3b7cc292e2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_TV_WideScreenVertical.cs
+  uploadId: 399766

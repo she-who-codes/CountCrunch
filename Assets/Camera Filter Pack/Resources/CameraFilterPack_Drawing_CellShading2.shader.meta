@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 69b7f7ce8bb05684d8e1c696728675c9
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Drawing_CellShading2.shader
+  uploadId: 399766

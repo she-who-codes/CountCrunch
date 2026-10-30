@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6b23ddabebef2e4fae3d5ef711da81f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17756
+  packageName: 2D Lit Shader
+  packageVersion: 1.0.1
+  assetPath: Assets/2DLitShader/2DLitShaderDemo/Scenes/2DLitShaderDemo.unity
+  uploadId: 6584

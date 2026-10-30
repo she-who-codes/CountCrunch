@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 762fb54cf9b1f404cb033d2ab961a7ee
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_LinearLight.shader
+  uploadId: 399766

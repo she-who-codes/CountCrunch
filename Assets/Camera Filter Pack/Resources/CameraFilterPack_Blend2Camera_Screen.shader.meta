@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8983c04d15a29a04f977a8003ba10fbc
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_Screen.shader
+  uploadId: 399766

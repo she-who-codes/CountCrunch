@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f9f4376e89819a42a160e2b94f022e7
+timeCreated: 1525021829
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Classic_ThermalVision.shader
+  uploadId: 399766

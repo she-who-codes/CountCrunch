@@ -1,0 +1,77 @@
+vampire_kid.png
+size:777,328
+filter:Linear,Linear
+pma:true
+forearm left
+bounds:705,44,48,66
+offsets:1,1,50,68
+rotate:90
+head
+bounds:2,2,324,383
+offsets:1,2,326,386
+rotate:90
+hip
+bounds:435,4,146,61
+offsets:1,1,148,63
+rotate:90
+left arm
+bounds:689,94,73,80
+offsets:1,1,75,82
+rotate:90
+left calf
+bounds:564,253,26,52
+offsets:1,1,28,54
+rotate:90
+left hand
+bounds:435,152,127,174
+offsets:1,1,129,176
+left shoe
+bounds:620,163,73,39
+offsets:1,1,75,41
+rotate:90
+left thigh
+bounds:564,281,45,97
+offsets:1,1,47,99
+rotate:90
+pupil left
+bounds:705,5,37,37
+offsets:1,1,39,39
+pupil right
+bounds:588,218,24,33
+offsets:1,1,26,35
+reflection left
+bounds:620,238,41,41
+offsets:1,1,43,43
+reflections right
+bounds:564,216,22,35
+offsets:1,1,24,37
+right arm
+bounds:664,216,67,96
+offsets:1,1,69,98
+rotate:90
+right arm forearm
+bounds:564,153,61,54
+offsets:1,1,63,56
+rotate:90
+right calf
+bounds:661,162,26,52
+offsets:1,1,28,54
+right hand
+bounds:689,169,86,45
+offsets:1,1,88,47
+right shoe
+bounds:664,19,73,39
+offsets:1,1,75,41
+rotate:90
+right thigh
+bounds:664,285,41,104
+offsets:1,1,43,106
+rotate:90
+shadow
+bounds:387,20,306,46
+offsets:3,2,312,50
+rotate:90
+torso
+bounds:498,6,144,164
+offsets:1,1,146,166
+rotate:90

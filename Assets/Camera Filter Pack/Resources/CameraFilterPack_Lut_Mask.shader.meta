@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7206178233b5fe24a87477e9eea99a39
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Lut_Mask.shader
+  uploadId: 399766

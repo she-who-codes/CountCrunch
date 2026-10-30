@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 18d5350f33ac0e6458a350f590a47951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3060069971051192636
+    second: kiosks_bg_0
+  - first:
+      213: 1216104731077533053
+    second: kiosks_bg_1
+  - first:
+      213: -5071532653466642405
+    second: kiosks_bg_2
+  - first:
+      213: -2963255821639804679
+    second: kiosks_bg_3
+  - first:
+      213: 2202167668777115963
+    second: kiosks_bg_4
+  - first:
+      213: -756277170222526390
+    second: kiosks_bg_5
+  - first:
+      213: -9189543686842684968
+    second: kiosks_bg_6
+  - first:
+      213: -6728598421141367712
+    second: kiosks_bg_7
+  - first:
+      213: 2362849915847113543
+    second: kiosks_bg_8
+  - first:
+      213: 2268198744416270195
+    second: kiosks_bg_9
+  - first:
+      213: 890684134007498142
+    second: kiosks_bg_10
+  - first:
+      213: -23414597897771315
+    second: kiosks_bg_11
+  - first:
+      213: 2904760612808105715
+    second: kiosks_bg_12
+  - first:
+      213: 35259537480275784
+    second: kiosks_bg_13
+  - first:
+      213: 2181255807774016013
+    second: kiosks_bg_14
+  - first:
+      213: 7248868951363557754
+    second: kiosks_bg_15
+  - first:
+      213: -6102732394519679915
+    second: kiosks_bg_16
+  - first:
+      213: -8928201885685218947
+    second: kiosks_bg_17
+  - first:
+      213: -1951856855055595288
+    second: kiosks_bg_18
+  - first:
+      213: 3351428988376653878
+    second: kiosks_bg_19
+  - first:
+      213: 3964762644541362846
+    second: kiosks_bg_20
+  - first:
+      213: -3575323384688503224
+    second: kiosks_bg_21
+  - first:
+      213: -3882592611528585117
+    second: kiosks_bg_22
+  - first:
+      213: 536350224149568305
+    second: kiosks_bg_23
+  - first:
+      213: -5407781809110742201
+    second: kiosks_bg_24
+  - first:
+      213: -882151463507153130
+    second: kiosks_bg_25
+  - first:
+      213: 4419893532777461710
+    second: kiosks_bg_26
+  - first:
+      213: -1651639854237387447
+    second: kiosks_bg_27
+  - first:
+      213: 1281839246341148841
+    second: kiosks_bg_28
+  - first:
+      213: 7598693587135798517
+    second: kiosks_bg_29
+  - first:
+      213: 2768300317754883750
+    second: kiosks_bg_30
+  - first:
+      213: -6480160853415807254
+    second: kiosks_bg_31
+  - first:
+      213: 9168342566720230742
+    second: kiosks_bg_32
+  - first:
+      213: 3500828004498565304
+    second: kiosks_bg_33
+  - first:
+      213: 4649097894540112750
+    second: kiosks_bg_34
+  - first:
+      213: 3219404557632625543
+    second: kiosks_bg_35
+  - first:
+      213: -2083075147699749617
+    second: kiosks_bg_36
+  - first:
+      213: -131764548197455186
+    second: kiosks_bg_37
+  - first:
+      213: -2491760665829378632
+    second: kiosks_bg_38
+  - first:
+      213: -2276925273018490284
+    second: kiosks_bg_39
+  - first:
+      213: -3261284809767267935
+    second: kiosks_bg_40
+  - first:
+      213: 81048274771946412
+    second: kiosks_bg_41
+  - first:
+      213: -1925508221169585846
+    second: kiosks_bg_42
+  - first:
+      213: 2368321863476525436
+    second: kiosks_bg_43
+  - first:
+      213: 4977419848730118763
+    second: kiosks_bg_44
+  - first:
+      213: 8998093783595817439
+    second: kiosks_bg_45
+  - first:
+      213: 292255001531563465
+    second: kiosks_bg_46
+  - first:
+      213: -946202770069192334
+    second: kiosks_bg_47
+  - first:
+      213: 5827025809911969808
+    second: kiosks_bg_48
+  - first:
+      213: 1839074597569398858
+    second: kiosks_bg_49
+  - first:
+      213: -3342682103938968781
+    second: kiosks_bg_50
+  - first:
+      213: 1581507741178313834
+    second: kiosks_bg_51
+  - first:
+      213: -5908012543138190285
+    second: kiosks_bg_52
+  - first:
+      213: 7600029015048634981
+    second: kiosks_bg_53
+  - first:
+      213: 2039613946149362401
+    second: kiosks_bg_54
+  - first:
+      213: 7068817867716712243
+    second: kiosks_bg_55
+  - first:
+      213: -8428117916837354531
+    second: kiosks_bg_56
+  - first:
+      213: -3353005870065473029
+    second: kiosks_bg_57
+  - first:
+      213: 7834196172750109124
+    second: kiosks_bg_58
+  - first:
+      213: 7011077666025879020
+    second: kiosks_bg_59
+  - first:
+      213: 3714744345029803885
+    second: kiosks_bg_60
+  - first:
+      213: 4287758348443700064
+    second: kiosks_bg_61
+  - first:
+      213: -4036340987215185711
+    second: kiosks_bg_62
+  - first:
+      213: -6266002037675837459
+    second: kiosks_bg_63
+  - first:
+      213: 4507886531839031782
+    second: kiosks_bg_64
+  - first:
+      213: -6984674249171645199
+    second: kiosks_bg_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 410, z: 0, w: 774}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kiosks_bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187
+        width: 662
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce57a303927885d0800000000000000
+      internalID: -3060069971051192636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2734
+        height: 1202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d5c894fc870e010800000000000000
+      internalID: 1216104731077533053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1608
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18935bfbeb4e99b0800000000000000
+      internalID: -5071532653466642405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1637
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f81d8cb78660e6d0800000000000000
+      internalID: -2963255821639804679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1260
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b316f41c3dbaf8e10800000000000000
+      internalID: 2202167668777115963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40162dabe92185f0800000000000000
+      internalID: -756277170222526390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1579
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9eec184be287080800000000000000
+      internalID: -9189543686842684968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1307
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645d97b2673f92a0800000000000000
+      internalID: -6728598421141367712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1274
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf0a3ca778ac020800000000000000
+      internalID: 2362849915847113543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3773be89db24a7f10800000000000000
+      internalID: 2268198744416270195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1724
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e79630885c5c00800000000000000
+      internalID: 890684134007498142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1694
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6aeb91c80dcaff0800000000000000
+      internalID: -23414597897771315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1623
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe19f32368cf4820800000000000000
+      internalID: 2904760612808105715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1550
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d47ecc544d7000800000000000000
+      internalID: 35259537480275784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1521
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c0a2b990654e10800000000000000
+      internalID: 2181255807774016013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1507
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a791265b7e7299460800000000000000
+      internalID: 7248868951363557754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1432
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca269883dbe4ba0800000000000000
+      internalID: -6102732394519679915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1405
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7182c840b7a81480800000000000000
+      internalID: -8928201885685218947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8000e188c99e4e0800000000000000
+      internalID: -1951856855055595288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630232688eaa28e20800000000000000
+      internalID: 3351428988376653878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1347
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9250a67e9aa50730800000000000000
+      internalID: 3964762644541362846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1332
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8469e721356e16ec0800000000000000
+      internalID: -3575323384688503224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360584637924e1ac0800000000000000
+      internalID: -3882592611528585117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd2a9efaf717700800000000000000
+      internalID: 536350224149568305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_24
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1203
+        width: 834
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8225a813b3f4b0800000000000000
+      internalID: -5407781809110742201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_25
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1639
+        width: 6
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fa093fae7f1c3f0800000000000000
+      internalID: -882151463507153130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_26
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1537
+        width: 6
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73f3e10cd965d30800000000000000
+      internalID: 4419893532777461710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_27
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1508
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9457d47ad423419e0800000000000000
+      internalID: -1651639854237387447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_28
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1406
+        width: 6
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a09159c0020ac110800000000000000
+      internalID: 1281839246341148841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_29
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1348
+        width: 6
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc9442de8bf37960800000000000000
+      internalID: 7598693587135798517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_30
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1276
+        width: 6
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae716fc87afa6620800000000000000
+      internalID: 2768300317754883750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_31
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1203
+        width: 6
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae632c48908d116a0800000000000000
+      internalID: -6480160853415807254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_32
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1187
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d37c0dfe7c3f70800000000000000
+      internalID: 9168342566720230742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_33
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1202
+        width: 151
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b860eb9580759030800000000000000
+      internalID: 3500828004498565304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_34
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1666
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63741237e9e48040800000000000000
+      internalID: 4649097894540112750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_35
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1251
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b57f5536f9dac20800000000000000
+      internalID: 3219404557632625543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_36
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1623
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d79e4903e6713e0800000000000000
+      internalID: -2083075147699749617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_37
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1550
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa63be67d0eb2ef0800000000000000
+      internalID: -131764548197455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_38
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1530
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f2f750ec7b6dd0800000000000000
+      internalID: -2491760665829378632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1332
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452af91278cb660e0800000000000000
+      internalID: -2276925273018490284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_40
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1294
+        width: 50
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1d17a9eb69db2d0800000000000000
+      internalID: -3261284809767267935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_41
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1207
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba07bf9f0ff1100800000000000000
+      internalID: 81048274771946412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_42
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1199
+        width: 289
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b71189783745e0800000000000000
+      internalID: -1925508221169585846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c793f4adf28fdd020800000000000000
+      internalID: 2368321863476525436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a898d1bf8531540800000000000000
+      internalID: 4977419848730118763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_45
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1071
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd911ea4f96afdc70800000000000000
+      internalID: 8998093783595817439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1042
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdbe1e106c4e0400800000000000000
+      internalID: 292255001531563465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271098408996ed2f0800000000000000
+      internalID: -946202770069192334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_48
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 950
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f5d8e911cdd050800000000000000
+      internalID: 5827025809911969808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4881974a94b58910800000000000000
+      internalID: 1839074597569398858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33399a536586c91d0800000000000000
+      internalID: -3342682103938968781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_51
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cb67259e4a2f510800000000000000
+      internalID: 1581507741178313834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c22bdd4e5820ea0800000000000000
+      internalID: -5908012543138190285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_53
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c2ac5f1ab87960800000000000000
+      internalID: 7600029015048634981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea5a23e31a2e4c10800000000000000
+      internalID: 2039613946149362401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3375033066c791260800000000000000
+      internalID: 7068817867716712243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 154
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3edc1a86f490b80800000000000000
+      internalID: -8428117916837354531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 82
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9a2f81deab771d0800000000000000
+      internalID: -3353005870065473029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_58
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9be7969e7a8bc60800000000000000
+      internalID: 7834196172750109124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b520bdf95c4160800000000000000
+      internalID: 7011077666025879020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 40
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f74ecdc4c6d8330800000000000000
+      internalID: 3714744345029803885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bc3b9108d218b30800000000000000
+      internalID: 4287758348443700064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d870b0f1490cf7c0800000000000000
+      internalID: -4036340987215185711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_63
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7357e6850ba09a0800000000000000
+      internalID: -6266002037675837459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_64
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9780abaea3f8e30800000000000000
+      internalID: 4507886531839031782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiosks_bg_65
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc4e4ad6c3711f90800000000000000
+      internalID: -6984674249171645199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kiosks_bg_0: -3060069971051192636
+      kiosks_bg_1: 1216104731077533053
+      kiosks_bg_10: 890684134007498142
+      kiosks_bg_11: -23414597897771315
+      kiosks_bg_12: 2904760612808105715
+      kiosks_bg_13: 35259537480275784
+      kiosks_bg_14: 2181255807774016013
+      kiosks_bg_15: 7248868951363557754
+      kiosks_bg_16: -6102732394519679915
+      kiosks_bg_17: -8928201885685218947
+      kiosks_bg_18: -1951856855055595288
+      kiosks_bg_19: 3351428988376653878
+      kiosks_bg_2: -5071532653466642405
+      kiosks_bg_20: 3964762644541362846
+      kiosks_bg_21: -3575323384688503224
+      kiosks_bg_22: -3882592611528585117
+      kiosks_bg_23: 536350224149568305
+      kiosks_bg_24: -5407781809110742201
+      kiosks_bg_25: -882151463507153130
+      kiosks_bg_26: 4419893532777461710
+      kiosks_bg_27: -1651639854237387447
+      kiosks_bg_28: 1281839246341148841
+      kiosks_bg_29: 7598693587135798517
+      kiosks_bg_3: -2963255821639804679
+      kiosks_bg_30: 2768300317754883750
+      kiosks_bg_31: -6480160853415807254
+      kiosks_bg_32: 9168342566720230742
+      kiosks_bg_33: 3500828004498565304
+      kiosks_bg_34: 4649097894540112750
+      kiosks_bg_35: 3219404557632625543
+      kiosks_bg_36: -2083075147699749617
+      kiosks_bg_37: -131764548197455186
+      kiosks_bg_38: -2491760665829378632
+      kiosks_bg_39: -2276925273018490284
+      kiosks_bg_4: 2202167668777115963
+      kiosks_bg_40: -3261284809767267935
+      kiosks_bg_41: 81048274771946412
+      kiosks_bg_42: -1925508221169585846
+      kiosks_bg_43: 2368321863476525436
+      kiosks_bg_44: 4977419848730118763
+      kiosks_bg_45: 8998093783595817439
+      kiosks_bg_46: 292255001531563465
+      kiosks_bg_47: -946202770069192334
+      kiosks_bg_48: 5827025809911969808
+      kiosks_bg_49: 1839074597569398858
+      kiosks_bg_5: -756277170222526390
+      kiosks_bg_50: -3342682103938968781
+      kiosks_bg_51: 1581507741178313834
+      kiosks_bg_52: -5908012543138190285
+      kiosks_bg_53: 7600029015048634981
+      kiosks_bg_54: 2039613946149362401
+      kiosks_bg_55: 7068817867716712243
+      kiosks_bg_56: -8428117916837354531
+      kiosks_bg_57: -3353005870065473029
+      kiosks_bg_58: 7834196172750109124
+      kiosks_bg_59: 7011077666025879020
+      kiosks_bg_6: -9189543686842684968
+      kiosks_bg_60: 3714744345029803885
+      kiosks_bg_61: 4287758348443700064
+      kiosks_bg_62: -4036340987215185711
+      kiosks_bg_63: -6266002037675837459
+      kiosks_bg_64: 4507886531839031782
+      kiosks_bg_65: -6984674249171645199
+      kiosks_bg_7: -6728598421141367712
+      kiosks_bg_8: 2362849915847113543
+      kiosks_bg_9: 2268198744416270195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

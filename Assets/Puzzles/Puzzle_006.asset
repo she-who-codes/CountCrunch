@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a75c551969d0e2840a027f5a8f1595bb, type: 3}
+  m_Name: Puzzle_006
+  m_EditorClassIdentifier: 
+  puzzleID: 6
+  difficulty: 2
+  puzzleName: Puzzle_006
+  pumpkinType: 1
+  pumpkinPosition: {x: -1.83, y: 2.36}
+  blocks:
+  - type: 0
+    role: 0
+    position: {x: -1.909024, y: -0.29}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: -1.909024, y: 4.26}
+    rotation: 0
+    scale: {x: 1.9124953, y: 0.71274}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: 0.57, y: -0.29}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: -4.5, y: -0.29}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: -4.56, y: 1.41}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: 0.75, y: 1.41}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 2
+    role: 0
+    position: {x: -1.2019159, y: 1.15}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    critical: 0
+  - type: 2
+    role: 0
+    position: {x: -2.42, y: 1.15}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    critical: 0
+  - type: 1
+    role: 0
+    position: {x: 0.61, y: 2.688038}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    critical: 0
+  - type: 1
+    role: 0
+    position: {x: -4.41, y: 2.688038}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    critical: 0

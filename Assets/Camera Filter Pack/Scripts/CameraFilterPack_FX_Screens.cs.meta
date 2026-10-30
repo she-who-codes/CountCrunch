@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fce587f85872b6e42ab0c24c80c7ae2e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_FX_Screens.cs
+  uploadId: 399766

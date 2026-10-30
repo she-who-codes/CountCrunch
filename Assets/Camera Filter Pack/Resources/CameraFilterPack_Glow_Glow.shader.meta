@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3420348c5651b744e9dd3883ca2c1936
+timeCreated: 1500556139
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Glow_Glow.shader
+  uploadId: 399766

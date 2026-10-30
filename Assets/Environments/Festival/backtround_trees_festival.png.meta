@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 63cd48ebf704a9f4e82ec1aba3365b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7906440860035432478
+    second: backtround_trees_festival_0
+  - first:
+      213: 5851794708721508063
+    second: backtround_trees_festival_1
+  - first:
+      213: 4944368237416852042
+    second: backtround_trees_festival_2
+  - first:
+      213: -7035432300033678409
+    second: backtround_trees_festival_3
+  - first:
+      213: 6972138015741021130
+    second: backtround_trees_festival_4
+  - first:
+      213: 3890459851258050715
+    second: backtround_trees_festival_5
+  - first:
+      213: 3868809239356924799
+    second: backtround_trees_festival_6
+  - first:
+      213: -1918692371826367039
+    second: backtround_trees_festival_7
+  - first:
+      213: -7689135957793037134
+    second: backtround_trees_festival_8
+  - first:
+      213: -4889421825775175769
+    second: backtround_trees_festival_9
+  - first:
+      213: -6595989473915974918
+    second: backtround_trees_festival_10
+  - first:
+      213: -5002731116252270196
+    second: backtround_trees_festival_11
+  - first:
+      213: -1897553088601224268
+    second: backtround_trees_festival_12
+  - first:
+      213: 786861221195267754
+    second: backtround_trees_festival_13
+  - first:
+      213: 1460755328214207253
+    second: backtround_trees_festival_14
+  - first:
+      213: -1556880704621910095
+    second: backtround_trees_festival_15
+  - first:
+      213: -5425245737674175281
+    second: backtround_trees_festival_16
+  - first:
+      213: 646630307578689023
+    second: backtround_trees_festival_17
+  - first:
+      213: 3990110308769460762
+    second: backtround_trees_festival_18
+  - first:
+      213: -1511155931245826840
+    second: backtround_trees_festival_19
+  - first:
+      213: -2004337991379769061
+    second: backtround_trees_festival_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backtround_trees_festival_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2123
+        height: 1431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef34fb8deda64290800000000000000
+      internalID: -7906440860035432478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1408
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde1bdf8840c53150800000000000000
+      internalID: 5851794708721508063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1397
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aa4fd27bced9440800000000000000
+      internalID: 4944368237416852042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_3
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1397
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3ee23399f1d5e90800000000000000
+      internalID: -7035432300033678409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_4
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb8d39d59202c060800000000000000
+      internalID: 6972138015741021130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_5
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b7274f90bdf530800000000000000
+      internalID: 3890459851258050715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_6
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1375
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f736e9f5185c0b530800000000000000
+      internalID: 3868809239356924799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_7
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5a908147f6f55e0800000000000000
+      internalID: -1918692371826367039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4201ec593ba4590800000000000000
+      internalID: -7689135957793037134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_9
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7f0a531c8452cb0800000000000000
+      internalID: -4889421825775175769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1128
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afac50145865674a0800000000000000
+      internalID: -6595989473915974918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c817dfc2e8ab29ab0800000000000000
+      internalID: -5002731116252270196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_12
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1095
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb8a7305898aa5e0800000000000000
+      internalID: -1897553088601224268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1028
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebfd89c1e7bea00800000000000000
+      internalID: 786861221195267754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_14
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b87f94b35a54410800000000000000
+      internalID: 1460755328214207253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_15
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 894
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7e9537f39d46ae0800000000000000
+      internalID: -1556880704621910095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_16
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc8abaeeb7a5b4b0800000000000000
+      internalID: -5425245737674175281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_17
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ba38b6da49f800800000000000000
+      internalID: 646630307578689023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12f3d07f28bf5730800000000000000
+      internalID: 3990110308769460762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_19
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2edddfab470be0800000000000000
+      internalID: -1511155931245826840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backtround_trees_festival_20
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b192dfd57392f24e0800000000000000
+      internalID: -2004337991379769061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      backtround_trees_festival_0: -7906440860035432478
+      backtround_trees_festival_1: 5851794708721508063
+      backtround_trees_festival_10: -6595989473915974918
+      backtround_trees_festival_11: -5002731116252270196
+      backtround_trees_festival_12: -1897553088601224268
+      backtround_trees_festival_13: 786861221195267754
+      backtround_trees_festival_14: 1460755328214207253
+      backtround_trees_festival_15: -1556880704621910095
+      backtround_trees_festival_16: -5425245737674175281
+      backtround_trees_festival_17: 646630307578689023
+      backtround_trees_festival_18: 3990110308769460762
+      backtround_trees_festival_19: -1511155931245826840
+      backtround_trees_festival_2: 4944368237416852042
+      backtround_trees_festival_20: -2004337991379769061
+      backtround_trees_festival_3: -7035432300033678409
+      backtround_trees_festival_4: 6972138015741021130
+      backtround_trees_festival_5: 3890459851258050715
+      backtround_trees_festival_6: 3868809239356924799
+      backtround_trees_festival_7: -1918692371826367039
+      backtround_trees_festival_8: -7689135957793037134
+      backtround_trees_festival_9: -4889421825775175769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 196d5e008c3513f4b9c7e2b29e0c9c9a
+timeCreated: 1503309349
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/Background_AutoMove.shader
+  uploadId: 399771

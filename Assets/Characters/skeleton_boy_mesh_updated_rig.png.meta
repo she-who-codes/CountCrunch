@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 0d452174c6a73af45aa478f7a31edeb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2849524652395583775
+    second: skeleton_boy_mesh_updated_rig_0
+  - first:
+      213: 2046124757350286363
+    second: skeleton_boy_mesh_updated_rig_1
+  - first:
+      213: -2168837055154076697
+    second: skeleton_boy_mesh_updated_rig_2
+  - first:
+      213: -3716190971354741251
+    second: skeleton_boy_mesh_updated_rig_3
+  - first:
+      213: -2832124779639046514
+    second: skeleton_boy_mesh_updated_rig_4
+  - first:
+      213: 5709363985565080163
+    second: skeleton_boy_mesh_updated_rig_5
+  - first:
+      213: 1584909158570454013
+    second: skeleton_boy_mesh_updated_rig_6
+  - first:
+      213: -3657954289339150956
+    second: skeleton_boy_mesh_updated_rig_7
+  - first:
+      213: -6767853766293639742
+    second: skeleton_boy_mesh_updated_rig_8
+  - first:
+      213: -4659580591576182547
+    second: skeleton_boy_mesh_updated_rig_9
+  - first:
+      213: 4178706499305484817
+    second: skeleton_boy_mesh_updated_rig_10
+  - first:
+      213: 4633224545591949343
+    second: skeleton_boy_mesh_updated_rig_11
+  - first:
+      213: -5189581777916052961
+    second: skeleton_boy_mesh_updated_rig_12
+  - first:
+      213: -6035440647988814496
+    second: skeleton_boy_mesh_updated_rig_13
+  - first:
+      213: 7935854820553020426
+    second: skeleton_boy_mesh_updated_rig_14
+  - first:
+      213: -1095086327802153043
+    second: skeleton_boy_mesh_updated_rig_15
+  - first:
+      213: -8261065989764039129
+    second: skeleton_boy_mesh_updated_rig_16
+  - first:
+      213: 3929201589133085349
+    second: skeleton_boy_mesh_updated_rig_17
+  - first:
+      213: 3806867665918141875
+    second: skeleton_boy_mesh_updated_rig_18
+  - first:
+      213: 5936778575503138636
+    second: skeleton_boy_mesh_updated_rig_19
+  - first:
+      213: 4060845752856822191
+    second: skeleton_boy_mesh_updated_rig_20
+  - first:
+      213: 3559449161919273559
+    second: skeleton_boy_mesh_updated_rig_21
+  - first:
+      213: -7194087339209406520
+    second: skeleton_boy_mesh_updated_rig_22
+  - first:
+      213: -2979951705342368472
+    second: skeleton_boy_mesh_updated_rig_23
+  - first:
+      213: -7076789468702522214
+    second: skeleton_boy_mesh_updated_rig_24
+  - first:
+      213: 8489107603597493538
+    second: skeleton_boy_mesh_updated_rig_25
+  - first:
+      213: 2030209329805036909
+    second: skeleton_boy_mesh_updated_rig_26
+  - first:
+      213: 4540064938328659676
+    second: skeleton_boy_mesh_updated_rig_27
+  - first:
+      213: 1311857594702724480
+    second: skeleton_boy_mesh_updated_rig_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 548
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19d1cce29b8b8720800000000000000
+      internalID: 2849524652395583775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 393
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140fff30ab456c10800000000000000
+      internalID: 2046124757350286363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 393
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e346d7703eb6e1e0800000000000000
+      internalID: -2168837055154076697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 393
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df503e230007d6cc0800000000000000
+      internalID: -3716190971354741251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 393
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7806a48542b8d0800000000000000
+      internalID: -2832124779639046514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 393
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad30d9b4cbb3f40800000000000000
+      internalID: 5709363985565080163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 309
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbead58b7abef510800000000000000
+      internalID: 1584909158570454013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_7
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 457
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dc25b54f55c3dc0800000000000000
+      internalID: -3657954289339150956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 479
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd27407bd0c312a0800000000000000
+      internalID: -6767853766293639742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_9
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 471
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de01cc4b328d55fb0800000000000000
+      internalID: -4659580591576182547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_10
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 309
+        width: 63
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11238bfdb6fbdf930800000000000000
+      internalID: 4178706499305484817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_11
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 457
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18f0a42d258c4040800000000000000
+      internalID: 4633224545591949343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_12
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 453
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a397a5ed6eaf7b0800000000000000
+      internalID: -5189581777916052961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_13
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 414
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d5ca135becd3ca0800000000000000
+      internalID: -6035440647988814496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_14
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 360
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045220d9e1d12e60800000000000000
+      internalID: 7935854820553020426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1
+        width: 326
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da737f079c87dc0f0800000000000000
+      internalID: -1095086327802153043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_16
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1
+        width: 48
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ebd06504cca5d80800000000000000
+      internalID: -8261065989764039129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 261
+        width: 133
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa8d2b0704578630800000000000000
+      internalID: 3929201589133085349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_18
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 259
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5a8f5f8f5b4d430800000000000000
+      internalID: 3806867665918141875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_19
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 250
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f9307f8aca36250800000000000000
+      internalID: 5936778575503138636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_20
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 306
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa14faa62b50b5830800000000000000
+      internalID: 4060845752856822191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_21
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 306
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a924c6724b56130800000000000000
+      internalID: 3559449161919273559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_22
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 177
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7c94f4ea7792c90800000000000000
+      internalID: -7194087339209406520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825af3366b515a6d0800000000000000
+      internalID: -2979951705342368472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_24
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 177
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94c2cff8713acd90800000000000000
+      internalID: -7076789468702522214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 169
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250f74636e5fc570800000000000000
+      internalID: 8489107603597493538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_26
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 169
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d86b201a0cc2c10800000000000000
+      internalID: 2030209329805036909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_27
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 169
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61942d10d810f30800000000000000
+      internalID: 4540064938328659676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_boy_mesh_updated_rig_28
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2
+        width: 146
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d77282887a43210800000000000000
+      internalID: 1311857594702724480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_boy_mesh_updated_rig_0: 2849524652395583775
+      skeleton_boy_mesh_updated_rig_1: 2046124757350286363
+      skeleton_boy_mesh_updated_rig_10: 4178706499305484817
+      skeleton_boy_mesh_updated_rig_11: 4633224545591949343
+      skeleton_boy_mesh_updated_rig_12: -5189581777916052961
+      skeleton_boy_mesh_updated_rig_13: -6035440647988814496
+      skeleton_boy_mesh_updated_rig_14: 7935854820553020426
+      skeleton_boy_mesh_updated_rig_15: -1095086327802153043
+      skeleton_boy_mesh_updated_rig_16: -8261065989764039129
+      skeleton_boy_mesh_updated_rig_17: 3929201589133085349
+      skeleton_boy_mesh_updated_rig_18: 3806867665918141875
+      skeleton_boy_mesh_updated_rig_19: 5936778575503138636
+      skeleton_boy_mesh_updated_rig_2: -2168837055154076697
+      skeleton_boy_mesh_updated_rig_20: 4060845752856822191
+      skeleton_boy_mesh_updated_rig_21: 3559449161919273559
+      skeleton_boy_mesh_updated_rig_22: -7194087339209406520
+      skeleton_boy_mesh_updated_rig_23: -2979951705342368472
+      skeleton_boy_mesh_updated_rig_24: -7076789468702522214
+      skeleton_boy_mesh_updated_rig_25: 8489107603597493538
+      skeleton_boy_mesh_updated_rig_26: 2030209329805036909
+      skeleton_boy_mesh_updated_rig_27: 4540064938328659676
+      skeleton_boy_mesh_updated_rig_28: 1311857594702724480
+      skeleton_boy_mesh_updated_rig_3: -3716190971354741251
+      skeleton_boy_mesh_updated_rig_4: -2832124779639046514
+      skeleton_boy_mesh_updated_rig_5: 5709363985565080163
+      skeleton_boy_mesh_updated_rig_6: 1584909158570454013
+      skeleton_boy_mesh_updated_rig_7: -3657954289339150956
+      skeleton_boy_mesh_updated_rig_8: -6767853766293639742
+      skeleton_boy_mesh_updated_rig_9: -4659580591576182547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

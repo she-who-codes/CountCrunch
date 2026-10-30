@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a901280dec7da3345901d707136eb8d3
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Color_Noise.shader
+  uploadId: 399766

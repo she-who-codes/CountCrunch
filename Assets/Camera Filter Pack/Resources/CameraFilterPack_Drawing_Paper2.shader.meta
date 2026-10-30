@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 373f0a3e2826606408de34aedbb0eac5
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MainTex2: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Drawing_Paper2.shader
+  uploadId: 399766

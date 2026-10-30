@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd85acd85a6334c4383f22375bab5f07
+timeCreated: 1535808403
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Exemple3.unity
+  uploadId: 399771

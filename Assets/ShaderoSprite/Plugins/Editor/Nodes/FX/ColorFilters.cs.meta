@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: af0e41c332d9956459f9733889b9a0a9
+timeCreated: 1433616192
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/Editor/Nodes/FX/ColorFilters.cs
+  uploadId: 399771

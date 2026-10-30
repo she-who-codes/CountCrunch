@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5484186cbc9e0304a90559aa3b8c32e2
+timeCreated: 1467727732
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_Shield.shader
+  uploadId: 399766

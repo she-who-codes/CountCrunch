@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 37668b2b00c96854090161d49bc5b124
+timeCreated: 1533722265
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/Holographic.shader
+  uploadId: 399771

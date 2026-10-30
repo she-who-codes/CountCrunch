@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5a9e160972e891498e9cb21ef64509a
+timeCreated: 1515063316
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/Planet.shader
+  uploadId: 399771

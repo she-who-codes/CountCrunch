@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 459db15d828a48a4abdeccc5c950b416
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Blur_Regular.cs
+  uploadId: 399766

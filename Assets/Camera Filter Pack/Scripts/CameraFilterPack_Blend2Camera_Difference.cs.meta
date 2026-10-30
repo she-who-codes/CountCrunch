@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73fb7e3761059b445ad61cd0efdbce82
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Blend2Camera_Difference.cs
+  uploadId: 399766

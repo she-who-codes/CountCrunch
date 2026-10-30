@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be11c22e569e8314391633cfea3017dc
+timeCreated: 1467022879
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_Fog_Smoke.shader
+  uploadId: 399766

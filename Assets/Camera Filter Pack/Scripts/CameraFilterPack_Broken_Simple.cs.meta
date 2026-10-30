@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 86ec333f00ef0054a829f44f7d6cd683
+timeCreated: 1525020389
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Broken_Simple.cs
+  uploadId: 399766

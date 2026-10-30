@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b886f736a61014e4fb53da213c89eefd
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_Overlay.shader
+  uploadId: 399766

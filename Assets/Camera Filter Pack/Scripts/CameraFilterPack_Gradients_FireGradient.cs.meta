@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff5d161bc6c1bdb4fb6b00448cd4db7d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Gradients_FireGradient.cs
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 94f6173f3f835d042af8a4f04c604859
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_Tiles.shader
+  uploadId: 399766

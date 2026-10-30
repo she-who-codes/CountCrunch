@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff50b655cda3df246a8ceba8e3307fd8
+timeCreated: 1460548592
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Fly_Vision.shader
+  uploadId: 399766

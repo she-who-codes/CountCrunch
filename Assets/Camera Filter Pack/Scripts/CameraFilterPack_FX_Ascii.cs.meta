@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca77a65bceac67a47850638c5f60d8a5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_FX_Ascii.cs
+  uploadId: 399766

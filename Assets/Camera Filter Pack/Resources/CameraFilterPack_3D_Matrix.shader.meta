@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b8bbe4cc2889ea54e83c170f70d2b940
+timeCreated: 1467115119
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_Matrix.shader
+  uploadId: 399766

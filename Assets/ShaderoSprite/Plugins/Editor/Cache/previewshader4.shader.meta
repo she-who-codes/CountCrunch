@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e412f7abe1c41fb408d6fcc1f30294eb
+timeCreated: 1524909556
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/Editor/Cache/previewshader4.shader
+  uploadId: 399771

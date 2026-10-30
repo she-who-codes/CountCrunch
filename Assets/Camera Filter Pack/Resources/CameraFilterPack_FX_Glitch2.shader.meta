@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d1ea5c2516692244488450c91dc83bb2
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_Glitch2.shader
+  uploadId: 399766

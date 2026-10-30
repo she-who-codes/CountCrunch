@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 36aa6ec1ad691874e9f2ee3b2451a3e0
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Color_Switching.shader
+  uploadId: 399766

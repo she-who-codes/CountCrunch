@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 844941d5915399d4eb2c7e655a085082
+timeCreated: 1535790463
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/grass.shader
+  uploadId: 399771

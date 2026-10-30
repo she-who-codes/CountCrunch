@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e9a715a541e1414f84dd87bb8210686
+timeCreated: 1460548592
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_RainFX.shader
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 099ffd66873232b438e7ed526ca570d1
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_Funk.shader
+  uploadId: 399766

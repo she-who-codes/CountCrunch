@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 30821ff9d4fae4a4288b4589e0e1dd6d
+timeCreated: 1509601761
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71173
+  packageName: Particle Collection SKJ 2016 (full version)
+  packageVersion: 1.9
+  assetPath: Assets/Particlecollection/Plugins/Effect/Shader/Toon Blended Premmultiply.shader
+  uploadId: 209749

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a12d9b8f9ea136e4ebbb8141a81c8482
+timeCreated: 1460012234
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71173
+  packageName: Particle Collection SKJ 2016 (full version)
+  packageVersion: 1.9
+  assetPath: Assets/Particlecollection/Plugins/Effect/Shader/ParticleBlendEffect.shader
+  uploadId: 209749

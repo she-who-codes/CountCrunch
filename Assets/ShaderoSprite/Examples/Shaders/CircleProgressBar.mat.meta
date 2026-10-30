@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98def9aeef552184397c8846a13b1535
+timeCreated: 1533722707
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/CircleProgressBar.mat
+  uploadId: 399771

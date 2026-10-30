@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c9e94b9e1e79a94f8874a03d5e3907a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17756
+  packageName: 2D Lit Shader
+  packageVersion: 1.0.1
+  assetPath: Assets/2DLitShader/Shaders/2DLitShader.shader
+  uploadId: 6584

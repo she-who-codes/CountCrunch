@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59055a346f96a8045b2d1b57697f002c
+timeCreated: 1503136724
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Animations/MonsterDistortion.anim
+  uploadId: 399771

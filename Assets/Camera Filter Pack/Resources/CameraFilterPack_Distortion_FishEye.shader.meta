@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b683f2809031c5e4282caf403a2596cf
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Distortion_FishEye.shader
+  uploadId: 399766

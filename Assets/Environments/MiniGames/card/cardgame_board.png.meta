@@ -1,0 +1,7319 @@
+fileFormatVersion: 2
+guid: 93c2872c1a7eff348bd052ade15955b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2296383051358295122
+    second: cardgame_board_0
+  - first:
+      213: 49371064074503531
+    second: cardgame_board_1
+  - first:
+      213: 9045690963552569638
+    second: cardgame_board_2
+  - first:
+      213: -1608339272493346216
+    second: cardgame_board_3
+  - first:
+      213: -960237738040822964
+    second: cardgame_board_4
+  - first:
+      213: 1490127559741165095
+    second: cardgame_board_5
+  - first:
+      213: 4446276187526243471
+    second: cardgame_board_6
+  - first:
+      213: 6854965205866112066
+    second: cardgame_board_7
+  - first:
+      213: -2239273747980697483
+    second: cardgame_board_8
+  - first:
+      213: -5393102629968062649
+    second: cardgame_board_9
+  - first:
+      213: 901629577789705952
+    second: cardgame_board_10
+  - first:
+      213: -897882176410647086
+    second: cardgame_board_11
+  - first:
+      213: -2436418633357512132
+    second: cardgame_board_12
+  - first:
+      213: -2093155628761403940
+    second: cardgame_board_13
+  - first:
+      213: 2431370251340310825
+    second: cardgame_board_14
+  - first:
+      213: 7496602170736374389
+    second: cardgame_board_15
+  - first:
+      213: 6485895194221044252
+    second: cardgame_board_16
+  - first:
+      213: -1539394544554803858
+    second: cardgame_board_17
+  - first:
+      213: -310187501896809111
+    second: cardgame_board_18
+  - first:
+      213: 412300149260480413
+    second: cardgame_board_19
+  - first:
+      213: -6822773915815245038
+    second: cardgame_board_20
+  - first:
+      213: 4514170328185515516
+    second: cardgame_board_21
+  - first:
+      213: 2101376106570269180
+    second: cardgame_board_22
+  - first:
+      213: -8980695404842040465
+    second: cardgame_board_23
+  - first:
+      213: 3569156182881048147
+    second: cardgame_board_24
+  - first:
+      213: -7758308625832969717
+    second: cardgame_board_25
+  - first:
+      213: -565821069851807389
+    second: cardgame_board_26
+  - first:
+      213: 315902129561205723
+    second: cardgame_board_27
+  - first:
+      213: 2538658061651003751
+    second: cardgame_board_28
+  - first:
+      213: 8759093964377261305
+    second: cardgame_board_29
+  - first:
+      213: 6940474318892474084
+    second: cardgame_board_30
+  - first:
+      213: 1794663541127590679
+    second: cardgame_board_31
+  - first:
+      213: -1907511600297840599
+    second: cardgame_board_32
+  - first:
+      213: 1839837949749761857
+    second: cardgame_board_33
+  - first:
+      213: 1286020505217854166
+    second: cardgame_board_34
+  - first:
+      213: -6442554405590803713
+    second: cardgame_board_35
+  - first:
+      213: 5064150674855551167
+    second: cardgame_board_36
+  - first:
+      213: 2253825871446302912
+    second: cardgame_board_37
+  - first:
+      213: -7426785821737015805
+    second: cardgame_board_38
+  - first:
+      213: -4222150300893438441
+    second: cardgame_board_39
+  - first:
+      213: -8586544555065120155
+    second: cardgame_board_40
+  - first:
+      213: 7975858656401541753
+    second: cardgame_board_41
+  - first:
+      213: -6578930307496548459
+    second: cardgame_board_42
+  - first:
+      213: 3147032803756464956
+    second: cardgame_board_43
+  - first:
+      213: 3648963561754122463
+    second: cardgame_board_44
+  - first:
+      213: -3989365063572820680
+    second: cardgame_board_45
+  - first:
+      213: -4664519793825116668
+    second: cardgame_board_46
+  - first:
+      213: -9207249506767120432
+    second: cardgame_board_47
+  - first:
+      213: 6067638344603154323
+    second: cardgame_board_48
+  - first:
+      213: -8778891834540883156
+    second: cardgame_board_49
+  - first:
+      213: -2074214970077936513
+    second: cardgame_board_50
+  - first:
+      213: -6361857204415189139
+    second: cardgame_board_51
+  - first:
+      213: -7775022472162651488
+    second: cardgame_board_52
+  - first:
+      213: 2515536232056200407
+    second: cardgame_board_53
+  - first:
+      213: -8446292169030375743
+    second: cardgame_board_54
+  - first:
+      213: -8207014998815197534
+    second: cardgame_board_55
+  - first:
+      213: 5429263825663955780
+    second: cardgame_board_56
+  - first:
+      213: 3589012126768887153
+    second: cardgame_board_57
+  - first:
+      213: 1818183556114917937
+    second: cardgame_board_58
+  - first:
+      213: -2838283273794452650
+    second: cardgame_board_59
+  - first:
+      213: -4224133717458266489
+    second: cardgame_board_60
+  - first:
+      213: 6652450487507703386
+    second: cardgame_board_61
+  - first:
+      213: -6178261938587330653
+    second: cardgame_board_62
+  - first:
+      213: 640067652374224829
+    second: cardgame_board_63
+  - first:
+      213: 1930098706319063824
+    second: cardgame_board_64
+  - first:
+      213: -7557433219170935671
+    second: cardgame_board_65
+  - first:
+      213: 6672868389877637125
+    second: cardgame_board_66
+  - first:
+      213: 8029092366956338096
+    second: cardgame_board_67
+  - first:
+      213: -540413036285268028
+    second: cardgame_board_68
+  - first:
+      213: 7331905606252822084
+    second: cardgame_board_69
+  - first:
+      213: 4192456946808076078
+    second: cardgame_board_70
+  - first:
+      213: 3037116083732796225
+    second: cardgame_board_71
+  - first:
+      213: -8463012623477558682
+    second: cardgame_board_72
+  - first:
+      213: 1324196381307768711
+    second: cardgame_board_73
+  - first:
+      213: -7794127419668966406
+    second: cardgame_board_74
+  - first:
+      213: 6172415881750969903
+    second: cardgame_board_75
+  - first:
+      213: 3918537578501250705
+    second: cardgame_board_76
+  - first:
+      213: -3945934482294757541
+    second: cardgame_board_77
+  - first:
+      213: 8768298123104643430
+    second: cardgame_board_78
+  - first:
+      213: -2099980684119682341
+    second: cardgame_board_79
+  - first:
+      213: 4478886766008130202
+    second: cardgame_board_80
+  - first:
+      213: 1849247887416955178
+    second: cardgame_board_81
+  - first:
+      213: 2352491049636961747
+    second: cardgame_board_82
+  - first:
+      213: -1169258357161013465
+    second: cardgame_board_83
+  - first:
+      213: -1935210739105541401
+    second: cardgame_board_84
+  - first:
+      213: 165684238100725129
+    second: cardgame_board_85
+  - first:
+      213: 1022918054394252618
+    second: cardgame_board_86
+  - first:
+      213: 8371584584544886894
+    second: cardgame_board_87
+  - first:
+      213: -3113260402141037748
+    second: cardgame_board_88
+  - first:
+      213: 6464326625078126710
+    second: cardgame_board_89
+  - first:
+      213: 8448792129398051076
+    second: cardgame_board_90
+  - first:
+      213: -8457281217731413900
+    second: cardgame_board_91
+  - first:
+      213: -3848817573021147537
+    second: cardgame_board_92
+  - first:
+      213: 2821369762242911264
+    second: cardgame_board_93
+  - first:
+      213: -7410199546886933255
+    second: cardgame_board_94
+  - first:
+      213: -7256322297237841829
+    second: cardgame_board_95
+  - first:
+      213: 8036482605830833512
+    second: cardgame_board_96
+  - first:
+      213: 7986937624114376726
+    second: cardgame_board_97
+  - first:
+      213: -7838432162310868962
+    second: cardgame_board_98
+  - first:
+      213: 5022725595283762367
+    second: cardgame_board_99
+  - first:
+      213: 305368799255493732
+    second: cardgame_board_100
+  - first:
+      213: -8357480009665706827
+    second: cardgame_board_101
+  - first:
+      213: 4953046402379620284
+    second: cardgame_board_102
+  - first:
+      213: 779858022769370961
+    second: cardgame_board_103
+  - first:
+      213: -1765891168303720652
+    second: cardgame_board_104
+  - first:
+      213: 4102928470092805460
+    second: cardgame_board_105
+  - first:
+      213: -8154139452435259202
+    second: cardgame_board_106
+  - first:
+      213: -4695824038602425264
+    second: cardgame_board_107
+  - first:
+      213: -216608622774294686
+    second: cardgame_board_108
+  - first:
+      213: -3378400134924849432
+    second: cardgame_board_109
+  - first:
+      213: 7164553647393323268
+    second: cardgame_board_110
+  - first:
+      213: 6259666639409960030
+    second: cardgame_board_111
+  - first:
+      213: 7222938496840929392
+    second: cardgame_board_112
+  - first:
+      213: -4975875461762663483
+    second: cardgame_board_113
+  - first:
+      213: -3865638261083240494
+    second: cardgame_board_114
+  - first:
+      213: 6884006602264475495
+    second: cardgame_board_115
+  - first:
+      213: -1956629367091416624
+    second: cardgame_board_116
+  - first:
+      213: 3597822360417010819
+    second: cardgame_board_117
+  - first:
+      213: 1531648924621279115
+    second: cardgame_board_118
+  - first:
+      213: -3040998106078525942
+    second: cardgame_board_119
+  - first:
+      213: -6535460064302415434
+    second: cardgame_board_120
+  - first:
+      213: -6354696408984288187
+    second: cardgame_board_121
+  - first:
+      213: 674237907744972070
+    second: cardgame_board_122
+  - first:
+      213: 1676298926363673871
+    second: cardgame_board_123
+  - first:
+      213: 6345879643185776507
+    second: cardgame_board_124
+  - first:
+      213: 3391020134513007245
+    second: cardgame_board_125
+  - first:
+      213: 5029922469052925001
+    second: cardgame_board_126
+  - first:
+      213: 498950730273116183
+    second: cardgame_board_127
+  - first:
+      213: 8326687528422821473
+    second: cardgame_board_128
+  - first:
+      213: 684507010353947996
+    second: cardgame_board_129
+  - first:
+      213: 7203742352976636213
+    second: cardgame_board_130
+  - first:
+      213: 2427131606671972734
+    second: cardgame_board_131
+  - first:
+      213: -7837693621471254619
+    second: cardgame_board_132
+  - first:
+      213: -8908142793474425266
+    second: cardgame_board_133
+  - first:
+      213: 5113622934798664614
+    second: cardgame_board_134
+  - first:
+      213: -7739946730393763569
+    second: cardgame_board_135
+  - first:
+      213: 1951843997030542847
+    second: cardgame_board_136
+  - first:
+      213: -7207398724748575712
+    second: cardgame_board_137
+  - first:
+      213: -2232964103137114387
+    second: cardgame_board_138
+  - first:
+      213: -2378821889504171493
+    second: cardgame_board_139
+  - first:
+      213: 4979461065608395183
+    second: cardgame_board_140
+  - first:
+      213: -8961301818045023522
+    second: cardgame_board_141
+  - first:
+      213: -2621744781304990978
+    second: cardgame_board_142
+  - first:
+      213: -5774410859862492495
+    second: cardgame_board_143
+  - first:
+      213: 4781587362886976681
+    second: cardgame_board_144
+  - first:
+      213: 1743143313445429477
+    second: cardgame_board_145
+  - first:
+      213: 4187878813491178513
+    second: cardgame_board_146
+  - first:
+      213: -6545693033428660583
+    second: cardgame_board_147
+  - first:
+      213: 24124734927862890
+    second: cardgame_board_148
+  - first:
+      213: 5913187018498229565
+    second: cardgame_board_149
+  - first:
+      213: 8183239053520336305
+    second: cardgame_board_150
+  - first:
+      213: -6776848090369051000
+    second: cardgame_board_151
+  - first:
+      213: -4360967037118987784
+    second: cardgame_board_152
+  - first:
+      213: -2508049977965925285
+    second: cardgame_board_153
+  - first:
+      213: 8221897506144677340
+    second: cardgame_board_154
+  - first:
+      213: 7174652907666655239
+    second: cardgame_board_155
+  - first:
+      213: -5096793905581018653
+    second: cardgame_board_156
+  - first:
+      213: 770877163671038709
+    second: cardgame_board_157
+  - first:
+      213: -510259105368745034
+    second: cardgame_board_158
+  - first:
+      213: 4334474421238497666
+    second: cardgame_board_159
+  - first:
+      213: 3377747288411498567
+    second: cardgame_board_160
+  - first:
+      213: 1434827856017590101
+    second: cardgame_board_161
+  - first:
+      213: -4668696569875478102
+    second: cardgame_board_162
+  - first:
+      213: 1901429990576023057
+    second: cardgame_board_163
+  - first:
+      213: 3107736785940504675
+    second: cardgame_board_164
+  - first:
+      213: -4937926474716950181
+    second: cardgame_board_165
+  - first:
+      213: -4649430465195739290
+    second: cardgame_board_166
+  - first:
+      213: 6218196885792867726
+    second: cardgame_board_167
+  - first:
+      213: 3905795873926473997
+    second: cardgame_board_168
+  - first:
+      213: 4564571600453508773
+    second: cardgame_board_169
+  - first:
+      213: 2748811620882344323
+    second: cardgame_board_170
+  - first:
+      213: 8979762250396257642
+    second: cardgame_board_171
+  - first:
+      213: 705780439191990234
+    second: cardgame_board_172
+  - first:
+      213: -1402924519430212337
+    second: cardgame_board_173
+  - first:
+      213: -7839934043066975277
+    second: cardgame_board_174
+  - first:
+      213: -8445638308049366848
+    second: cardgame_board_175
+  - first:
+      213: 6933481691868238696
+    second: cardgame_board_176
+  - first:
+      213: 6576475207748123618
+    second: cardgame_board_177
+  - first:
+      213: -3390727173105479666
+    second: cardgame_board_178
+  - first:
+      213: 3322332520328100803
+    second: cardgame_board_179
+  - first:
+      213: 7852209627980338916
+    second: cardgame_board_180
+  - first:
+      213: 3224368501284373580
+    second: cardgame_board_181
+  - first:
+      213: -8550478066963864005
+    second: cardgame_board_182
+  - first:
+      213: 1163707354702563629
+    second: cardgame_board_183
+  - first:
+      213: -1068863280677323135
+    second: cardgame_board_184
+  - first:
+      213: -3314498113042592123
+    second: cardgame_board_185
+  - first:
+      213: 8205822088813966879
+    second: cardgame_board_186
+  - first:
+      213: -7119782662013640663
+    second: cardgame_board_187
+  - first:
+      213: -2131834373211756886
+    second: cardgame_board_188
+  - first:
+      213: -7315147809710755256
+    second: cardgame_board_189
+  - first:
+      213: 248621959315642697
+    second: cardgame_board_190
+  - first:
+      213: -777339436972961547
+    second: cardgame_board_191
+  - first:
+      213: 8202364943184257164
+    second: cardgame_board_192
+  - first:
+      213: 494201666645428055
+    second: cardgame_board_193
+  - first:
+      213: -6945110316432372805
+    second: cardgame_board_194
+  - first:
+      213: -5011533782769036623
+    second: cardgame_board_195
+  - first:
+      213: -6594932180224834551
+    second: cardgame_board_196
+  - first:
+      213: -6254521991460221805
+    second: cardgame_board_197
+  - first:
+      213: 6900794917787312520
+    second: cardgame_board_198
+  - first:
+      213: 8754703970097445062
+    second: cardgame_board_199
+  - first:
+      213: 2276357923819945071
+    second: cardgame_board_200
+  - first:
+      213: -5230828065688380535
+    second: cardgame_board_201
+  - first:
+      213: -4008646866617287356
+    second: cardgame_board_202
+  - first:
+      213: -7937312230729876832
+    second: cardgame_board_203
+  - first:
+      213: -5746117169188512686
+    second: cardgame_board_204
+  - first:
+      213: 5690725318632572113
+    second: cardgame_board_205
+  - first:
+      213: 3559755353342618065
+    second: cardgame_board_206
+  - first:
+      213: -4476522924913136289
+    second: cardgame_board_207
+  - first:
+      213: 1071179673253412129
+    second: cardgame_board_208
+  - first:
+      213: -1127585036970138338
+    second: cardgame_board_209
+  - first:
+      213: -9010729750454380223
+    second: cardgame_board_210
+  - first:
+      213: 4756583774024591586
+    second: cardgame_board_211
+  - first:
+      213: 3606455177275688297
+    second: cardgame_board_212
+  - first:
+      213: 8361513106279548578
+    second: cardgame_board_213
+  - first:
+      213: 3649681164398632217
+    second: cardgame_board_214
+  - first:
+      213: -757126200333498441
+    second: cardgame_board_215
+  - first:
+      213: -1392416968104129405
+    second: cardgame_board_216
+  - first:
+      213: -3256067948432509228
+    second: cardgame_board_217
+  - first:
+      213: 9037859860786601080
+    second: cardgame_board_218
+  - first:
+      213: 3373135305536237785
+    second: cardgame_board_219
+  - first:
+      213: 8796428658573919720
+    second: cardgame_board_220
+  - first:
+      213: -6880452495892227313
+    second: cardgame_board_221
+  - first:
+      213: 3713687979600063519
+    second: cardgame_board_222
+  - first:
+      213: 5179292073754174054
+    second: cardgame_board_223
+  - first:
+      213: 280352959296174787
+    second: cardgame_board_224
+  - first:
+      213: 1291528643062764532
+    second: cardgame_board_225
+  - first:
+      213: -6708166030493085322
+    second: cardgame_board_226
+  - first:
+      213: -5556611082861637842
+    second: cardgame_board_227
+  - first:
+      213: -5885565299417108532
+    second: cardgame_board_228
+  - first:
+      213: -6339333446273863902
+    second: cardgame_board_229
+  - first:
+      213: 2020062179338796595
+    second: cardgame_board_230
+  - first:
+      213: 8543152215450529720
+    second: cardgame_board_231
+  - first:
+      213: -449641644593551327
+    second: cardgame_board_232
+  - first:
+      213: 5154608345435667840
+    second: cardgame_board_233
+  - first:
+      213: -5699941928683473448
+    second: cardgame_board_234
+  - first:
+      213: 755267780331119611
+    second: cardgame_board_235
+  - first:
+      213: -4279436405655167941
+    second: cardgame_board_236
+  - first:
+      213: 4743641236305265134
+    second: cardgame_board_237
+  - first:
+      213: 7550950135999274965
+    second: cardgame_board_238
+  - first:
+      213: 1659129564914553385
+    second: cardgame_board_239
+  - first:
+      213: 5862726523445296537
+    second: cardgame_board_240
+  - first:
+      213: -1975635629673166491
+    second: cardgame_board_241
+  - first:
+      213: 7085079157400854926
+    second: cardgame_board_242
+  - first:
+      213: -5344052845151710041
+    second: cardgame_board_243
+  - first:
+      213: 6005923216279672455
+    second: cardgame_board_244
+  - first:
+      213: 5796013546291341846
+    second: cardgame_board_245
+  - first:
+      213: 2011520181867026583
+    second: cardgame_board_246
+  - first:
+      213: 2625130416269456790
+    second: cardgame_board_247
+  - first:
+      213: 6813186336531985349
+    second: cardgame_board_248
+  - first:
+      213: -8234145768623708811
+    second: cardgame_board_249
+  - first:
+      213: 5584213626027625669
+    second: cardgame_board_250
+  - first:
+      213: 4868785637455846543
+    second: cardgame_board_251
+  - first:
+      213: -1536391928477003032
+    second: cardgame_board_252
+  - first:
+      213: -655518222907306884
+    second: cardgame_board_253
+  - first:
+      213: -6090636572115087613
+    second: cardgame_board_254
+  - first:
+      213: 9040014061624382150
+    second: cardgame_board_255
+  - first:
+      213: -4969561078893771732
+    second: cardgame_board_256
+  - first:
+      213: -2710628581427749597
+    second: cardgame_board_257
+  - first:
+      213: 2871252978596556586
+    second: cardgame_board_258
+  - first:
+      213: 6691384041493204443
+    second: cardgame_board_259
+  - first:
+      213: 1089239153665552429
+    second: cardgame_board_260
+  - first:
+      213: -519601194123121462
+    second: cardgame_board_261
+  - first:
+      213: 1831244870331916009
+    second: cardgame_board_262
+  - first:
+      213: -3645501064841820519
+    second: cardgame_board_263
+  - first:
+      213: -1524817295779715350
+    second: cardgame_board_264
+  - first:
+      213: 2758334401131002075
+    second: cardgame_board_265
+  - first:
+      213: 8288007362632791507
+    second: cardgame_board_266
+  - first:
+      213: 5184181152919828071
+    second: cardgame_board_267
+  - first:
+      213: -1028451541765475019
+    second: cardgame_board_268
+  - first:
+      213: -8960661594798560730
+    second: cardgame_board_269
+  - first:
+      213: 4854616192476948113
+    second: cardgame_board_270
+  - first:
+      213: -4033467835244015008
+    second: cardgame_board_271
+  - first:
+      213: -6410512895627724083
+    second: cardgame_board_272
+  - first:
+      213: -1193020285669100939
+    second: cardgame_board_273
+  - first:
+      213: 2992621071267125790
+    second: cardgame_board_274
+  - first:
+      213: 929719816157316285
+    second: cardgame_board_275
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardgame_board_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3048
+        height: 2032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254507ce7346edf10800000000000000
+      internalID: 2296383051358295122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2023
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650850a8b66fa000800000000000000
+      internalID: 49371064074503531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2011
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62903865100c88d70800000000000000
+      internalID: 9045690963552569638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2019
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85259b8f3f70ea9e0800000000000000
+      internalID: -1608339272493346216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2023
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f6246ddc8ca2f0800000000000000
+      internalID: -960237738040822964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2027
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e446cde1ffda410800000000000000
+      internalID: 1490127559741165095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2027
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a7ca92a854bd30800000000000000
+      internalID: 4446276187526243471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_7
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2019
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244ef4b198ab12f50800000000000000
+      internalID: 6854965205866112066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_8
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2027
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c0c0f3608ce0e0800000000000000
+      internalID: -2239273747980697483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_9
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2023
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747578f5bb9d725b0800000000000000
+      internalID: -5393102629968062649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_10
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 2026
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee042fe25b338c00800000000000000
+      internalID: 901629577789705952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_11
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2017
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d583e0fae41a83f0800000000000000
+      internalID: -897882176410647086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_12
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c323592692a103ed0800000000000000
+      internalID: -2436418633357512132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_13
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2009
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd2110bb0e93f2e0800000000000000
+      internalID: -2093155628761403940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_14
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2021
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92967949c56fdb120800000000000000
+      internalID: 2431370251340310825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2007
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572f921a4f7490860800000000000000
+      internalID: 7496602170736374389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1265fdb057820a50800000000000000
+      internalID: 6485895194221044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2007
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df2aa51d8f2aae0800000000000000
+      internalID: -1539394544554803858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_18
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2011
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965cca74c1ef1bbf0800000000000000
+      internalID: -310187501896809111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_19
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2003
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe2812dc8c8b500800000000000000
+      internalID: 412300149260480413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_20
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2017
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b080da543a051a0800000000000000
+      internalID: -6822773915815245038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_21
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2017
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd2b131ffd85ae30800000000000000
+      internalID: 4514170328185515516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_22
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14d937f66992d10800000000000000
+      internalID: 2101376106570269180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_23
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2015
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63486e6c192e5380800000000000000
+      internalID: -8980695404842040465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2006
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356938c53a0388130800000000000000
+      internalID: 3569156182881048147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1997
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a706bf863f45490800000000000000
+      internalID: -7758308625832969717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2001
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613d0d1cbcc528f0800000000000000
+      internalID: -565821069851807389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2001
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf848205f426400800000000000000
+      internalID: 315902129561205723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2001
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769c3e28e002b3320800000000000000
+      internalID: 2538658061651003751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2003
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f489fc8d8d8e8970800000000000000
+      internalID: 8759093964377261305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2007
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee9e4eee94815060800000000000000
+      internalID: 6940474318892474084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2000
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713314c6bfce7e810800000000000000
+      internalID: 1794663541127590679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_32
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2001
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9207f435e482785e0800000000000000
+      internalID: -1907511600297840599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2001
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1471e1f0eda688910800000000000000
+      internalID: 1839837949749761857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_34
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2001
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dae06bf5dcd8d110800000000000000
+      internalID: 1286020505217854166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_35
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2006
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffad1a8f6e27796a0800000000000000
+      internalID: -6442554405590803713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_36
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2001
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e1df253a774640800000000000000
+      internalID: 5064150674855551167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_37
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2007
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0642550b2374f10800000000000000
+      internalID: 2253825871446302912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_38
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2001
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062578d4a1cee890800000000000000
+      internalID: -7426785821737015805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_39
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 2001
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e10f6dba8e765c0800000000000000
+      internalID: -4222150300893438441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_40
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 2001
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a674b783776d880800000000000000
+      internalID: -8586544555065120155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_41
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2000
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ac989a031ffae60800000000000000
+      internalID: 7975858656401541753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_42
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1999
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ed93fdb1f2b4a0800000000000000
+      internalID: -6578930307496548459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_43
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1999
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bd76c49a18cab20800000000000000
+      internalID: 3147032803756464956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_44
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1997
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8d2b0c609b3a230800000000000000
+      internalID: 3648963561754122463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_45
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1999
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d636a7c9de2a8c0800000000000000
+      internalID: -3989365063572820680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1984
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e864116fb444fb0800000000000000
+      internalID: -4664519793825116668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1991
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d751ce0b57493080800000000000000
+      internalID: -9207249506767120432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_48
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1984
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3973c9b3de4943450800000000000000
+      internalID: 6067638344603154323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1968
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230d98936c1b2680800000000000000
+      internalID: -8778891834540883156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1975
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7405b07978e633e0800000000000000
+      internalID: -2074214970077936513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_51
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1975
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa213449426b7a0800000000000000
+      internalID: -6361857204415189139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_52
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1968
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2d0126142991490800000000000000
+      internalID: -7775022472162651488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1959
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc955b00eaf8e220800000000000000
+      internalID: 2515536232056200407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_54
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1959
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e7cbc50eb8ca80800000000000000
+      internalID: -8446292169030375743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1944
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a631595753da1e80800000000000000
+      internalID: -8207014998815197534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_56
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1944
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44314981fae985b40800000000000000
+      internalID: 5429263825663955780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1928
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f0ae838bbec130800000000000000
+      internalID: 3589012126768887153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_58
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1928
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aafa6af4c7b3910800000000000000
+      internalID: 1818183556114917937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1912
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6538c8d76646c98d0800000000000000
+      internalID: -2838283273794452650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_60
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1906
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786562fa3ccd065c0800000000000000
+      internalID: -4224133717458266489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1890
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5655c1e870425c50800000000000000
+      internalID: 6652450487507703386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1896
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79f2d2087624aa0800000000000000
+      internalID: -6178261938587330653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_63
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1896
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfdbfb732af1e800800000000000000
+      internalID: 640067652374224829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_64
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1880
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bb69b1c8619ca10800000000000000
+      internalID: 1930098706319063824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1864
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5495378a9e1790800000000000000
+      internalID: -7557433219170935671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_66
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1858
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e69b327aca9c50800000000000000
+      internalID: 6672868389877637125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1842
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb9b31c7f01d6f60800000000000000
+      internalID: 8029092366956338096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe93ce4311088f0800000000000000
+      internalID: -540413036285268028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_69
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef4638d4920c560800000000000000
+      internalID: 7331905606252822084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_70
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1841
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273d9a61699e2a30800000000000000
+      internalID: 4192456946808076078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_71
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1827
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143d480acf0062a20800000000000000
+      internalID: 3037116083732796225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1794
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66239ff9bd65d8a80800000000000000
+      internalID: -8463012623477558682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1801
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f05b8c79d706210800000000000000
+      internalID: 1324196381307768711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_74
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1801
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3df782862b5d390800000000000000
+      internalID: -7794127419668966406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_75
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1794
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2efeb5aa83d8a550800000000000000
+      internalID: 6172415881750969903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1777
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e16959a21716630800000000000000
+      internalID: 3918537578501250705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1785
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572bdbae793d39c0800000000000000
+      internalID: -3945934482294757541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_78
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1785
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6696060cfa04fa970800000000000000
+      internalID: 8768298123104643430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_79
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1761
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25dd7a1be5bd2e0800000000000000
+      internalID: -2099980684119682341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1755
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9adc1598c3382e30800000000000000
+      internalID: 4478886766008130202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_81
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1755
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a211127e729d9a910800000000000000
+      internalID: 1849247887416955178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1737
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd95e6452ab5a020800000000000000
+      internalID: 2352491049636961747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_83
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1721
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc2ca18b5f5cfe0800000000000000
+      internalID: -1169258357161013465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_84
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1715
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2d7120610c425e0800000000000000
+      internalID: -1935210739105541401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_85
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1705
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dffdccfe0ac4200800000000000000
+      internalID: 165684238100725129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dc0820d82223e00800000000000000
+      internalID: 1022918054394252618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_87
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1705
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602fe833d7dd2470800000000000000
+      internalID: 8371584584544886894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_88
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1699
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf715b82a7bc4d0800000000000000
+      internalID: -3113260402141037748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1682
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a1e7e0d6e5b950800000000000000
+      internalID: 6464326625078126710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1690
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40113e59da3204570800000000000000
+      internalID: 8448792129398051076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_91
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1688
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47839838a83b1aa80800000000000000
+      internalID: -8457281217731413900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_92
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1682
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1bca2fc0469ac0800000000000000
+      internalID: -3848817573021147537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1673
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c548ab9d4872720800000000000000
+      internalID: 2821369762242911264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_94
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1673
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f43b05e5cea92990800000000000000
+      internalID: -7410199546886933255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_95
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1657
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585469f05d5c4b90800000000000000
+      internalID: -7256322297237841829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1665
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650724d952578f60800000000000000
+      internalID: 8036482605830833512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_97
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1657
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6103a88d37d47de60800000000000000
+      internalID: 7986937624114376726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_98
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1665
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10b6796a7b483390800000000000000
+      internalID: -7838432162310868962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1642
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca62f315e44b540800000000000000
+      internalID: 5022725595283762367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_100
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1650
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c7c151e43ec3400800000000000000
+      internalID: 305368799255493732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_101
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1650
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b482760634440c80800000000000000
+      internalID: -8357480009665706827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_102
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1642
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf1dd9e571ccb440800000000000000
+      internalID: 4953046402379620284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1634
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15728666dbc92da00800000000000000
+      internalID: 779858022769370961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1626
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d149a65b4e77e0800000000000000
+      internalID: -1765891168303720652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_105
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 1626
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455f7be84b780f830800000000000000
+      internalID: 4102928470092805460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_106
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1634
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02998de5da6de80800000000000000
+      internalID: -8154139452435259202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_107
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1610
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cbc5b9ae415deb0800000000000000
+      internalID: -4695824038602425264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_108
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1615
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676040fa937efcf0800000000000000
+      internalID: -216608622774294686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_109
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 1557
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2ca01af28d11d0800000000000000
+      internalID: -3378400134924849432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_110
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1593
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bb17359b9d6360800000000000000
+      internalID: 7164553647393323268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_111
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 1598
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54d466b4adced650800000000000000
+      internalID: 6259666639409960030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_112
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1587
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07092ba4b480d3460800000000000000
+      internalID: 7222938496840929392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_113
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1571
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbbd0f71a322fab0800000000000000
+      internalID: -4975875461762663483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1547
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d789f98b7e7a5ac0800000000000000
+      internalID: -3865638261083240494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_115
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1539
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767fa6f1887e88f50800000000000000
+      internalID: 6884006602264475495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_116
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1523
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13b6115f7a8d4e0800000000000000
+      internalID: -1956629367091416624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1530
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3840d9def580ee130800000000000000
+      internalID: 3597822360417010819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_118
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1515
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f09a8f492814510800000000000000
+      internalID: 1531648924621279115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_119
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1509
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06cd8c95543cc5d0800000000000000
+      internalID: -3040998106078525942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1481
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1c087a2b16d45a0800000000000000
+      internalID: -6535460064302415434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1467
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448a0fd8459fc7a0800000000000000
+      internalID: -6354696408984288187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_122
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1445
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ddd390ecf5b5900800000000000000
+      internalID: 674237907744972070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_123
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1452
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05864bfdf8634710800000000000000
+      internalID: 1676298926363673871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_124
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77887fd9e7111850800000000000000
+      internalID: 6345879643185776507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_125
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1428
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a58df88d25f0f20800000000000000
+      internalID: 3391020134513007245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_126
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1404
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c7aff5dfddc540800000000000000
+      internalID: 5029922469052925001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_127
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710d95eab01ace600800000000000000
+      internalID: 498950730273116183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1388
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e415fb0365e8370800000000000000
+      internalID: 8326687528422821473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_129
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1350
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55696ecf7bdf7900800000000000000
+      internalID: 684507010353947996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539eb92c085d8f360800000000000000
+      internalID: 7203742352976636213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1309
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795ec63657eea120800000000000000
+      internalID: 2427131606671972734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_132
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1279
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a76cd95d2bea3390800000000000000
+      internalID: -7837693621471254619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1261
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e3082a35bef5480800000000000000
+      internalID: -8908142793474425266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1239
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a307ff47fc37f640800000000000000
+      internalID: 5113622934798664614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1229
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f010f6ae47f269490800000000000000
+      internalID: -7739946730393763569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_136
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdebf326c7561b10800000000000000
+      internalID: 1951843997030542847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_137
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1197
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cf1c8db0d2afb90800000000000000
+      internalID: -7207398724748575712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_138
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6405c9afae201e0800000000000000
+      internalID: -2232964103137114387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_139
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1166
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a2e24581abcfed0800000000000000
+      internalID: -2378821889504171493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_140
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1142
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9f974f4799a1540800000000000000
+      internalID: 4979461065608395183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_141
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda3d5ab97f03a380800000000000000
+      internalID: -8961301818045023522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_142
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1070
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f4921301bd9bd0800000000000000
+      internalID: -2621744781304990978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_143
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1039
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bafcb6caeb2ddfa0800000000000000
+      internalID: -5774410859862492495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1025
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a400636f5c9b5240800000000000000
+      internalID: 4781587362886976681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_145
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1007
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e02386ab93e03810800000000000000
+      internalID: 1743143313445429477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_146
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1001
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca680b7955e1a30800000000000000
+      internalID: 4187878813491178513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_147
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 985
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e4cbdddd60925a0800000000000000
+      internalID: -6545693033428660583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_148
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 959
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cfcaf8155b55000800000000000000
+      internalID: 24124734927862890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_149
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 953
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c900934cdf0250800000000000000
+      internalID: 5913187018498229565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_150
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 943
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5fe210094b09170800000000000000
+      internalID: 8183239053520336305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_151
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 914
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b4cc219cc3f1a0800000000000000
+      internalID: -6776848090369051000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 882
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c55bc59bba73c0800000000000000
+      internalID: -4360967037118987784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_153
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 883
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2a6055dd913dd0800000000000000
+      internalID: -2508049977965925285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_154
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 874
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6c69683c0a1270800000000000000
+      internalID: 8221897506144677340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_155
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 856
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c13c7ecc719360800000000000000
+      internalID: 7174652907666655239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b77462fc8449b0800000000000000
+      internalID: -5096793905581018653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 842
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa21232b4b2ba00800000000000000
+      internalID: 770877163671038709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_158
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 826
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb56111c023be8f0800000000000000
+      internalID: -510259105368745034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_159
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 832
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28100f56585272c30800000000000000
+      internalID: 4334474421238497666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_160
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 816
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7486ec2434b20ee20800000000000000
+      internalID: 3377747288411498567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_161
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 800
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55783cf355889e310800000000000000
+      internalID: 1434827856017590101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 785
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9cc7c9435753fb0800000000000000
+      internalID: -4668696569875478102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_163
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 779
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116ee81908c336a10800000000000000
+      internalID: 1901429990576023057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_164
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 768
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e56d2426e02b20800000000000000
+      internalID: 3107736785940504675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_165
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 747
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51df739806f87bb0800000000000000
+      internalID: -4937926474716950181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_166
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 737
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667f02a20a7e97fb0800000000000000
+      internalID: -4649430465195739290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_167
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 713
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85cf194f197b4650800000000000000
+      internalID: 6218196885792867726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_168
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 705
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e29e47ac243630800000000000000
+      internalID: 3905795873926473997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_169
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 689
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae1edcbfad985f30800000000000000
+      internalID: 4564571600453508773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_170
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 667
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3896829fa9db52620800000000000000
+      internalID: 2748811620882344323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_171
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 634
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dc45e90368e9c70800000000000000
+      internalID: 8979762250396257642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_172
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 642
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf257fe19f6bc900800000000000000
+      internalID: 705780439191990234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_173
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f053da4259fc78ce0800000000000000
+      internalID: -1402924519430212337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_174
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 626
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db308c8685f23390800000000000000
+      internalID: -7839934043066975277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_175
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 610
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0594ba4b01bca80800000000000000
+      internalID: -8445638308049366848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_176
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 580
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8631b741ddca83060800000000000000
+      internalID: 6933481691868238696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_177
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 562
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7df79b55544b50800000000000000
+      internalID: 6576475207748123618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_178
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 539
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0098c4d997b1f0d0800000000000000
+      internalID: -3390727173105479666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb72e323db4b1e20800000000000000
+      internalID: 3322332520328100803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 531
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e69ba9cd07a8fc60800000000000000
+      internalID: 7852209627980338916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_181
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 515
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44830881124fbc20800000000000000
+      internalID: 3224368501284373580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_182
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 491
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a9de1089965980800000000000000
+      internalID: -8550478066963864005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_183
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d294e8b6ca1562010800000000000000
+      internalID: 1163707354702563629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_184
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 476
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ef4c16282aa21f0800000000000000
+      internalID: -1068863280677323135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_185
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 483
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ec463f6898002d0800000000000000
+      internalID: -3314498113042592123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_186
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 459
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f167fc5a6bfe0e170800000000000000
+      internalID: 8205822088813966879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_187
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 467
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92021b02463713d90800000000000000
+      internalID: -7119782662013640663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_188
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 451
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6eeb8bee33a62e0800000000000000
+      internalID: -2131834373211756886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_189
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842b6ba03df5b7a90800000000000000
+      internalID: -7315147809710755256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_190
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 435
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949de50da58437300800000000000000
+      internalID: 248621959315642697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_191
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 419
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0135d86e55635f0800000000000000
+      internalID: -777339436972961547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_192
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 403
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806d943577a4d170800000000000000
+      internalID: 8202364943184257164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_193
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 396
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578ec32cc1cbd600800000000000000
+      internalID: 494201666645428055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_194
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc527c6f20e9f90800000000000000
+      internalID: -6945110316432372805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_195
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 364
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29e2aa394737ab0800000000000000
+      internalID: -5011533782769036623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_196
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 371
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90408ef9f181a74a0800000000000000
+      internalID: -6594932180224834551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_197
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c052bf2697339a0800000000000000
+      internalID: -6254521991460221805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_198
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 348
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a88e6a6c84cf50800000000000000
+      internalID: 6900794917787312520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_199
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83c5b50e4fe7970800000000000000
+      internalID: 8754703970097445062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_200
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 324
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cfee6987f379f10800000000000000
+      internalID: 2276357923819945071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_201
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 316
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b108f969d5867b0800000000000000
+      internalID: -5230828065688380535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_202
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d3b4dd9ec6e58c0800000000000000
+      internalID: -4008646866617287356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_203
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 302
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7bff649009d190800000000000000
+      internalID: -7937312230729876832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_204
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cdebcf0e0b140b0800000000000000
+      internalID: -5746117169188512686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_205
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 286
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48a6bc68489fe40800000000000000
+      internalID: 5690725318632572113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_206
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9284b22aac66130800000000000000
+      internalID: 3559755353342618065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_207
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 239
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5de8af0e1230e1c0800000000000000
+      internalID: -4476522924913136289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_208
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d73eacc389dde00800000000000000
+      internalID: 1071179673253412129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15695112630a50f0800000000000000
+      internalID: -1127585036970138338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_210
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 189
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495f19680573f280800000000000000
+      internalID: -9010729750454380223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_211
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 173
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e86f13bdb7c20240800000000000000
+      internalID: 4756583774024591586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_212
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 181
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c2eb30e3bc0230800000000000000
+      internalID: 3606455177275688297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_213
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 141
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c0947edf0a0470800000000000000
+      internalID: 8361513106279548578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_214
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d1a63aea546a230800000000000000
+      internalID: 3649681164398632217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_215
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b70bf27bb52e75f0800000000000000
+      internalID: -757126200333498441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_216
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c4de415242dace0800000000000000
+      internalID: -1392416968104129405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_217
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 102
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d63529c37f10d2d0800000000000000
+      internalID: -3256067948432509228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_218
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c52f3a8adec6d70800000000000000
+      internalID: 9037859860786601080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_219
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f0d150b8cfce20800000000000000
+      internalID: 3373135305536237785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_220
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 62
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e54d5e6241331a70800000000000000
+      internalID: 8796428658573919720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_221
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd460c8e8b380a0800000000000000
+      internalID: -6880452495892227313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_222
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c23be9a8ba98330800000000000000
+      internalID: 3713687979600063519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_223
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6622d1433ba80e740800000000000000
+      internalID: 5179292073754174054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_224
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf396f78304e300800000000000000
+      internalID: 280352959296174787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_225
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f39ff2457e6ce110800000000000000
+      internalID: 1291528643062764532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_226
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 38
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6711e12698ec7e2a0800000000000000
+      internalID: -6708166030493085322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_227
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 42
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f880b09a3f2e2b0800000000000000
+      internalID: -5556611082861637842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_228
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa0e11b85425ea0800000000000000
+      internalID: -5885565299417108532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_229
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe71e51d92608a0800000000000000
+      internalID: -6339333446273863902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_230
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb0bf69d3b80c10800000000000000
+      internalID: 2020062179338796595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_231
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf25082daf5f8670800000000000000
+      internalID: 8543152215450529720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_232
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12867c97e4d82c9f0800000000000000
+      internalID: -449641644593551327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_233
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df4f9daf8d88740800000000000000
+      internalID: 5154608345435667840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_234
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d57774f30db5e0b0800000000000000
+      internalID: -5699941928683473448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_235
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32fec6b004b7a00800000000000000
+      internalID: 755267780331119611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_236
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9c0233436c94c0800000000000000
+      internalID: -4279436405655167941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_237
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cedf429cc4d140800000000000000
+      internalID: 4743641236305265134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_238
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df9cec542d5ac860800000000000000
+      internalID: 7550950135999274965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_239
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 11
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92294118c89660710800000000000000
+      internalID: 1659129564914553385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_240
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99db73506b69c5150800000000000000
+      internalID: 5862726523445296537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_241
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c9b7bcd12594e0800000000000000
+      internalID: -1975635629673166491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_242
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81e66e84f1435260800000000000000
+      internalID: 7085079157400854926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_243
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 18
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a411d7504c16d5b0800000000000000
+      internalID: -5344052845151710041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_244
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861f9e2853595350800000000000000
+      internalID: 6005923216279672455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_245
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2c0c9c939f6050800000000000000
+      internalID: 5796013546291341846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_246
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79896baa2fa5aeb10800000000000000
+      internalID: 2011520181867026583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_247
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69570de74365e6420800000000000000
+      internalID: 2625130416269456790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_248
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3b88110ec4d8e50800000000000000
+      internalID: 6813186336531985349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_249
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 21
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e560cc007abd80800000000000000
+      internalID: -8234145768623708811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_250
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccc549d4bc1f7d40800000000000000
+      internalID: 5584213626027625669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_251
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 20
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c5418cdb6619340800000000000000
+      internalID: 4868785637455846543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_252
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2d9536ea3adaae0800000000000000
+      internalID: -1536391928477003032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_253
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c80db36a127e6f0800000000000000
+      internalID: -655518222907306884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_254
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc317ae46b97ba0800000000000000
+      internalID: -6090636572115087613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_255
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c258ab94e4947d70800000000000000
+      internalID: 9040014061624382150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_256
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c240ee25782980bb0800000000000000
+      internalID: -4969561078893771732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_257
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5afdaaa9e16ad0800000000000000
+      internalID: -2710628581427749597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_258
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa7891f5db8d720800000000000000
+      internalID: 2871252978596556586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_259
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd8be055529cdc50800000000000000
+      internalID: 6691384041493204443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_260
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20bead3d31cd1f00800000000000000
+      internalID: 1089239153665552429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_261
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 10
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2c6787710ac8f0800000000000000
+      internalID: -519601194123121462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_262
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed3e8d183e96910800000000000000
+      internalID: 1831244870331916009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_263
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968bc1a814986dc0800000000000000
+      internalID: -3645501064841820519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_264
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ada19fb2c6dae0800000000000000
+      internalID: -1524817295779715350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_265
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd837270682974620800000000000000
+      internalID: 2758334401131002075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_266
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5bc89d8cae40370800000000000000
+      internalID: 8288007362632791507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_267
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766bf07aa49e1f740800000000000000
+      internalID: 5184181152919828071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_268
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535bd5095c43ab1f0800000000000000
+      internalID: -1028451541765475019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_269
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aeb8151c555a380800000000000000
+      internalID: -8960661594798560730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_270
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a279c4bf0f5340800000000000000
+      internalID: 4854616192476948113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_271
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0621153cf5e3608c0800000000000000
+      internalID: -4033467835244015008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_272
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca7c0c5c784907a0800000000000000
+      internalID: -6410512895627724083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_273
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572bbdefe5a817fe0800000000000000
+      internalID: -1193020285669100939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_274
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ad93c320de78920800000000000000
+      internalID: 2992621071267125790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardgame_board_275
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4c2b63f3707ec00800000000000000
+      internalID: 929719816157316285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cardgame_board_0: 2296383051358295122
+      cardgame_board_1: 49371064074503531
+      cardgame_board_10: 901629577789705952
+      cardgame_board_100: 305368799255493732
+      cardgame_board_101: -8357480009665706827
+      cardgame_board_102: 4953046402379620284
+      cardgame_board_103: 779858022769370961
+      cardgame_board_104: -1765891168303720652
+      cardgame_board_105: 4102928470092805460
+      cardgame_board_106: -8154139452435259202
+      cardgame_board_107: -4695824038602425264
+      cardgame_board_108: -216608622774294686
+      cardgame_board_109: -3378400134924849432
+      cardgame_board_11: -897882176410647086
+      cardgame_board_110: 7164553647393323268
+      cardgame_board_111: 6259666639409960030
+      cardgame_board_112: 7222938496840929392
+      cardgame_board_113: -4975875461762663483
+      cardgame_board_114: -3865638261083240494
+      cardgame_board_115: 6884006602264475495
+      cardgame_board_116: -1956629367091416624
+      cardgame_board_117: 3597822360417010819
+      cardgame_board_118: 1531648924621279115
+      cardgame_board_119: -3040998106078525942
+      cardgame_board_12: -2436418633357512132
+      cardgame_board_120: -6535460064302415434
+      cardgame_board_121: -6354696408984288187
+      cardgame_board_122: 674237907744972070
+      cardgame_board_123: 1676298926363673871
+      cardgame_board_124: 6345879643185776507
+      cardgame_board_125: 3391020134513007245
+      cardgame_board_126: 5029922469052925001
+      cardgame_board_127: 498950730273116183
+      cardgame_board_128: 8326687528422821473
+      cardgame_board_129: 684507010353947996
+      cardgame_board_13: -2093155628761403940
+      cardgame_board_130: 7203742352976636213
+      cardgame_board_131: 2427131606671972734
+      cardgame_board_132: -7837693621471254619
+      cardgame_board_133: -8908142793474425266
+      cardgame_board_134: 5113622934798664614
+      cardgame_board_135: -7739946730393763569
+      cardgame_board_136: 1951843997030542847
+      cardgame_board_137: -7207398724748575712
+      cardgame_board_138: -2232964103137114387
+      cardgame_board_139: -2378821889504171493
+      cardgame_board_14: 2431370251340310825
+      cardgame_board_140: 4979461065608395183
+      cardgame_board_141: -8961301818045023522
+      cardgame_board_142: -2621744781304990978
+      cardgame_board_143: -5774410859862492495
+      cardgame_board_144: 4781587362886976681
+      cardgame_board_145: 1743143313445429477
+      cardgame_board_146: 4187878813491178513
+      cardgame_board_147: -6545693033428660583
+      cardgame_board_148: 24124734927862890
+      cardgame_board_149: 5913187018498229565
+      cardgame_board_15: 7496602170736374389
+      cardgame_board_150: 8183239053520336305
+      cardgame_board_151: -6776848090369051000
+      cardgame_board_152: -4360967037118987784
+      cardgame_board_153: -2508049977965925285
+      cardgame_board_154: 8221897506144677340
+      cardgame_board_155: 7174652907666655239
+      cardgame_board_156: -5096793905581018653
+      cardgame_board_157: 770877163671038709
+      cardgame_board_158: -510259105368745034
+      cardgame_board_159: 4334474421238497666
+      cardgame_board_16: 6485895194221044252
+      cardgame_board_160: 3377747288411498567
+      cardgame_board_161: 1434827856017590101
+      cardgame_board_162: -4668696569875478102
+      cardgame_board_163: 1901429990576023057
+      cardgame_board_164: 3107736785940504675
+      cardgame_board_165: -4937926474716950181
+      cardgame_board_166: -4649430465195739290
+      cardgame_board_167: 6218196885792867726
+      cardgame_board_168: 3905795873926473997
+      cardgame_board_169: 4564571600453508773
+      cardgame_board_17: -1539394544554803858
+      cardgame_board_170: 2748811620882344323
+      cardgame_board_171: 8979762250396257642
+      cardgame_board_172: 705780439191990234
+      cardgame_board_173: -1402924519430212337
+      cardgame_board_174: -7839934043066975277
+      cardgame_board_175: -8445638308049366848
+      cardgame_board_176: 6933481691868238696
+      cardgame_board_177: 6576475207748123618
+      cardgame_board_178: -3390727173105479666
+      cardgame_board_179: 3322332520328100803
+      cardgame_board_18: -310187501896809111
+      cardgame_board_180: 7852209627980338916
+      cardgame_board_181: 3224368501284373580
+      cardgame_board_182: -8550478066963864005
+      cardgame_board_183: 1163707354702563629
+      cardgame_board_184: -1068863280677323135
+      cardgame_board_185: -3314498113042592123
+      cardgame_board_186: 8205822088813966879
+      cardgame_board_187: -7119782662013640663
+      cardgame_board_188: -2131834373211756886
+      cardgame_board_189: -7315147809710755256
+      cardgame_board_19: 412300149260480413
+      cardgame_board_190: 248621959315642697
+      cardgame_board_191: -777339436972961547
+      cardgame_board_192: 8202364943184257164
+      cardgame_board_193: 494201666645428055
+      cardgame_board_194: -6945110316432372805
+      cardgame_board_195: -5011533782769036623
+      cardgame_board_196: -6594932180224834551
+      cardgame_board_197: -6254521991460221805
+      cardgame_board_198: 6900794917787312520
+      cardgame_board_199: 8754703970097445062
+      cardgame_board_2: 9045690963552569638
+      cardgame_board_20: -6822773915815245038
+      cardgame_board_200: 2276357923819945071
+      cardgame_board_201: -5230828065688380535
+      cardgame_board_202: -4008646866617287356
+      cardgame_board_203: -7937312230729876832
+      cardgame_board_204: -5746117169188512686
+      cardgame_board_205: 5690725318632572113
+      cardgame_board_206: 3559755353342618065
+      cardgame_board_207: -4476522924913136289
+      cardgame_board_208: 1071179673253412129
+      cardgame_board_209: -1127585036970138338
+      cardgame_board_21: 4514170328185515516
+      cardgame_board_210: -9010729750454380223
+      cardgame_board_211: 4756583774024591586
+      cardgame_board_212: 3606455177275688297
+      cardgame_board_213: 8361513106279548578
+      cardgame_board_214: 3649681164398632217
+      cardgame_board_215: -757126200333498441
+      cardgame_board_216: -1392416968104129405
+      cardgame_board_217: -3256067948432509228
+      cardgame_board_218: 9037859860786601080
+      cardgame_board_219: 3373135305536237785
+      cardgame_board_22: 2101376106570269180
+      cardgame_board_220: 8796428658573919720
+      cardgame_board_221: -6880452495892227313
+      cardgame_board_222: 3713687979600063519
+      cardgame_board_223: 5179292073754174054
+      cardgame_board_224: 280352959296174787
+      cardgame_board_225: 1291528643062764532
+      cardgame_board_226: -6708166030493085322
+      cardgame_board_227: -5556611082861637842
+      cardgame_board_228: -5885565299417108532
+      cardgame_board_229: -6339333446273863902
+      cardgame_board_23: -8980695404842040465
+      cardgame_board_230: 2020062179338796595
+      cardgame_board_231: 8543152215450529720
+      cardgame_board_232: -449641644593551327
+      cardgame_board_233: 5154608345435667840
+      cardgame_board_234: -5699941928683473448
+      cardgame_board_235: 755267780331119611
+      cardgame_board_236: -4279436405655167941
+      cardgame_board_237: 4743641236305265134
+      cardgame_board_238: 7550950135999274965
+      cardgame_board_239: 1659129564914553385
+      cardgame_board_24: 3569156182881048147
+      cardgame_board_240: 5862726523445296537
+      cardgame_board_241: -1975635629673166491
+      cardgame_board_242: 7085079157400854926
+      cardgame_board_243: -5344052845151710041
+      cardgame_board_244: 6005923216279672455
+      cardgame_board_245: 5796013546291341846
+      cardgame_board_246: 2011520181867026583
+      cardgame_board_247: 2625130416269456790
+      cardgame_board_248: 6813186336531985349
+      cardgame_board_249: -8234145768623708811
+      cardgame_board_25: -7758308625832969717
+      cardgame_board_250: 5584213626027625669
+      cardgame_board_251: 4868785637455846543
+      cardgame_board_252: -1536391928477003032
+      cardgame_board_253: -655518222907306884
+      cardgame_board_254: -6090636572115087613
+      cardgame_board_255: 9040014061624382150
+      cardgame_board_256: -4969561078893771732
+      cardgame_board_257: -2710628581427749597
+      cardgame_board_258: 2871252978596556586
+      cardgame_board_259: 6691384041493204443
+      cardgame_board_26: -565821069851807389
+      cardgame_board_260: 1089239153665552429
+      cardgame_board_261: -519601194123121462
+      cardgame_board_262: 1831244870331916009
+      cardgame_board_263: -3645501064841820519
+      cardgame_board_264: -1524817295779715350
+      cardgame_board_265: 2758334401131002075
+      cardgame_board_266: 8288007362632791507
+      cardgame_board_267: 5184181152919828071
+      cardgame_board_268: -1028451541765475019
+      cardgame_board_269: -8960661594798560730
+      cardgame_board_27: 315902129561205723
+      cardgame_board_270: 4854616192476948113
+      cardgame_board_271: -4033467835244015008
+      cardgame_board_272: -6410512895627724083
+      cardgame_board_273: -1193020285669100939
+      cardgame_board_274: 2992621071267125790
+      cardgame_board_275: 929719816157316285
+      cardgame_board_28: 2538658061651003751
+      cardgame_board_29: 8759093964377261305
+      cardgame_board_3: -1608339272493346216
+      cardgame_board_30: 6940474318892474084
+      cardgame_board_31: 1794663541127590679
+      cardgame_board_32: -1907511600297840599
+      cardgame_board_33: 1839837949749761857
+      cardgame_board_34: 1286020505217854166
+      cardgame_board_35: -6442554405590803713
+      cardgame_board_36: 5064150674855551167
+      cardgame_board_37: 2253825871446302912
+      cardgame_board_38: -7426785821737015805
+      cardgame_board_39: -4222150300893438441
+      cardgame_board_4: -960237738040822964
+      cardgame_board_40: -8586544555065120155
+      cardgame_board_41: 7975858656401541753
+      cardgame_board_42: -6578930307496548459
+      cardgame_board_43: 3147032803756464956
+      cardgame_board_44: 3648963561754122463
+      cardgame_board_45: -3989365063572820680
+      cardgame_board_46: -4664519793825116668
+      cardgame_board_47: -9207249506767120432
+      cardgame_board_48: 6067638344603154323
+      cardgame_board_49: -8778891834540883156
+      cardgame_board_5: 1490127559741165095
+      cardgame_board_50: -2074214970077936513
+      cardgame_board_51: -6361857204415189139
+      cardgame_board_52: -7775022472162651488
+      cardgame_board_53: 2515536232056200407
+      cardgame_board_54: -8446292169030375743
+      cardgame_board_55: -8207014998815197534
+      cardgame_board_56: 5429263825663955780
+      cardgame_board_57: 3589012126768887153
+      cardgame_board_58: 1818183556114917937
+      cardgame_board_59: -2838283273794452650
+      cardgame_board_6: 4446276187526243471
+      cardgame_board_60: -4224133717458266489
+      cardgame_board_61: 6652450487507703386
+      cardgame_board_62: -6178261938587330653
+      cardgame_board_63: 640067652374224829
+      cardgame_board_64: 1930098706319063824
+      cardgame_board_65: -7557433219170935671
+      cardgame_board_66: 6672868389877637125
+      cardgame_board_67: 8029092366956338096
+      cardgame_board_68: -540413036285268028
+      cardgame_board_69: 7331905606252822084
+      cardgame_board_7: 6854965205866112066
+      cardgame_board_70: 4192456946808076078
+      cardgame_board_71: 3037116083732796225
+      cardgame_board_72: -8463012623477558682
+      cardgame_board_73: 1324196381307768711
+      cardgame_board_74: -7794127419668966406
+      cardgame_board_75: 6172415881750969903
+      cardgame_board_76: 3918537578501250705
+      cardgame_board_77: -3945934482294757541
+      cardgame_board_78: 8768298123104643430
+      cardgame_board_79: -2099980684119682341
+      cardgame_board_8: -2239273747980697483
+      cardgame_board_80: 4478886766008130202
+      cardgame_board_81: 1849247887416955178
+      cardgame_board_82: 2352491049636961747
+      cardgame_board_83: -1169258357161013465
+      cardgame_board_84: -1935210739105541401
+      cardgame_board_85: 165684238100725129
+      cardgame_board_86: 1022918054394252618
+      cardgame_board_87: 8371584584544886894
+      cardgame_board_88: -3113260402141037748
+      cardgame_board_89: 6464326625078126710
+      cardgame_board_9: -5393102629968062649
+      cardgame_board_90: 8448792129398051076
+      cardgame_board_91: -8457281217731413900
+      cardgame_board_92: -3848817573021147537
+      cardgame_board_93: 2821369762242911264
+      cardgame_board_94: -7410199546886933255
+      cardgame_board_95: -7256322297237841829
+      cardgame_board_96: 8036482605830833512
+      cardgame_board_97: 7986937624114376726
+      cardgame_board_98: -7838432162310868962
+      cardgame_board_99: 5022725595283762367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

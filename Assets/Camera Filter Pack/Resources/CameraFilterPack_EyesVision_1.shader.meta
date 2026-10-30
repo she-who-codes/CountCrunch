@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95c7cc025471a63408542806e375562e
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MainTex2: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_EyesVision_1.shader
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ebdd980f3d1098a498ce9ebae41bb52c
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_Difference.shader
+  uploadId: 399766

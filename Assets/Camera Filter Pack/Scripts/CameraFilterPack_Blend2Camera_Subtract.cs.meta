@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afbfa6a21da7ecf44945199becca19ee
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Blend2Camera_Subtract.cs
+  uploadId: 399766

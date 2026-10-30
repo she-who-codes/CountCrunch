@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e0a1713974d03349a02159c80488d9d
+timeCreated: 1466771729
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Atmosphere_Fog.shader
+  uploadId: 399766

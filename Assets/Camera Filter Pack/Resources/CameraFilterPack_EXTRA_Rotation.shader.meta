@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ba6bb3d99e6ca33459c5332b09fafec4
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_EXTRA_Rotation.shader
+  uploadId: 399766

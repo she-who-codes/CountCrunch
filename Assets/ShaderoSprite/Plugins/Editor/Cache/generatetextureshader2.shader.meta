@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad20a814ccbd8e94e93304cb3ccf7a57
+timeCreated: 1535977030
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/Editor/Cache/generatetextureshader2.shader
+  uploadId: 399771

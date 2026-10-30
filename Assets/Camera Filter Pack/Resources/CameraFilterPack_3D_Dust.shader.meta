@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9040a93a461a62478336f07c4353377
+timeCreated: 1471420918
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_Dust.shader
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 892b1316c792f4147ab654db74f0d37e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_VHS_Rewind.shader
+  uploadId: 399766

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e37e110ed40ac2f47bab67c1a0646ae5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16167
+  packageName: Liquid Toon VFX Texture Pack
+  packageVersion: 1.1
+  assetPath: Assets/Textures/Sprites/LiquidToonPack/Examples/sprite_toonRipple_a_example.prefab
+  uploadId: 35977

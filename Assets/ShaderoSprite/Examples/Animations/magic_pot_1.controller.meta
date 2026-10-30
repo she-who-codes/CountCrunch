@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af02f8aa740399046814f598fadc343f
+timeCreated: 1503062712
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Animations/magic_pot_1.controller
+  uploadId: 399771

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 433cbde6202e3df4f9b89217bf4f8c19
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Sharpen_Sharpen.cs
+  uploadId: 399766

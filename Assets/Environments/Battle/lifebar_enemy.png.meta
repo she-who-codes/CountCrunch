@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 9c89f7876e7a8cc4c84f6c3f3ed8aefd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8374812864762491539
+    second: lifebar_enemy_0
+  - first:
+      213: 1910535014055338822
+    second: lifebar_enemy_1
+  - first:
+      213: -4988402916523699697
+    second: lifebar_enemy_2
+  - first:
+      213: 5885719861301153371
+    second: lifebar_enemy_3
+  - first:
+      213: -7458798035605877728
+    second: lifebar_enemy_4
+  - first:
+      213: -2911675445973785600
+    second: lifebar_enemy_5
+  - first:
+      213: -554432519520238994
+    second: lifebar_enemy_6
+  - first:
+      213: -7042100793278768970
+    second: lifebar_enemy_7
+  - first:
+      213: -2895772784733887312
+    second: lifebar_enemy_8
+  - first:
+      213: -7747712478349720787
+    second: lifebar_enemy_9
+  - first:
+      213: 7986645590002004664
+    second: lifebar_enemy_10
+  - first:
+      213: 2254945513928592791
+    second: lifebar_enemy_11
+  - first:
+      213: -7858055266439700038
+    second: lifebar_enemy_12
+  - first:
+      213: 7954520452663124093
+    second: lifebar_enemy_13
+  - first:
+      213: -7062794726853055799
+    second: lifebar_enemy_14
+  - first:
+      213: 5173655731974219512
+    second: lifebar_enemy_15
+  - first:
+      213: -6574924622021167937
+    second: lifebar_enemy_16
+  - first:
+      213: -1150451936748960958
+    second: lifebar_enemy_17
+  - first:
+      213: 3112044147484086243
+    second: lifebar_enemy_18
+  - first:
+      213: 2668137737443362360
+    second: lifebar_enemy_19
+  - first:
+      213: -2022507825497848094
+    second: lifebar_enemy_20
+  - first:
+      213: 2383446832847181166
+    second: lifebar_enemy_21
+  - first:
+      213: 6511483884413999832
+    second: lifebar_enemy_22
+  - first:
+      213: -2903107328745941676
+    second: lifebar_enemy_23
+  - first:
+      213: -7354697011487805952
+    second: lifebar_enemy_24
+  - first:
+      213: 5210844625686329891
+    second: lifebar_enemy_25
+  - first:
+      213: -2777495929079968906
+    second: lifebar_enemy_26
+  - first:
+      213: 4741729835758126697
+    second: lifebar_enemy_27
+  - first:
+      213: 9059695441814596092
+    second: lifebar_enemy_28
+  - first:
+      213: -728271053076513632
+    second: lifebar_enemy_29
+  - first:
+      213: -5693980366778848713
+    second: lifebar_enemy_30
+  - first:
+      213: 7340544553683079572
+    second: lifebar_enemy_31
+  - first:
+      213: 4296806420762190029
+    second: lifebar_enemy_32
+  - first:
+      213: -2031525766077474991
+    second: lifebar_enemy_33
+  - first:
+      213: -3220419634122970123
+    second: lifebar_enemy_34
+  - first:
+      213: 378697919267636693
+    second: lifebar_enemy_35
+  - first:
+      213: 8765257004022036299
+    second: lifebar_enemy_36
+  - first:
+      213: -7908052731710992958
+    second: lifebar_enemy_37
+  - first:
+      213: -921399408875908776
+    second: lifebar_enemy_38
+  - first:
+      213: 5378606008414966900
+    second: lifebar_enemy_39
+  - first:
+      213: 2840890669678359677
+    second: lifebar_enemy_40
+  - first:
+      213: 4679351165742036134
+    second: lifebar_enemy_41
+  - first:
+      213: -3308235389320264758
+    second: lifebar_enemy_42
+  - first:
+      213: -5935503019691098866
+    second: lifebar_enemy_43
+  - first:
+      213: 4744924350695954712
+    second: lifebar_enemy_44
+  - first:
+      213: 8740320587657176218
+    second: lifebar_enemy_45
+  - first:
+      213: 4004361372008195143
+    second: lifebar_enemy_46
+  - first:
+      213: 7286278757497393125
+    second: lifebar_enemy_47
+  - first:
+      213: 9039145380854179145
+    second: lifebar_enemy_48
+  - first:
+      213: -1007329004793309385
+    second: lifebar_enemy_49
+  - first:
+      213: -6464091168341966392
+    second: lifebar_enemy_50
+  - first:
+      213: -3446040802072087876
+    second: lifebar_enemy_51
+  - first:
+      213: 2120772955599933172
+    second: lifebar_enemy_52
+  - first:
+      213: 6676280079944271240
+    second: lifebar_enemy_53
+  - first:
+      213: 6694583492888668313
+    second: lifebar_enemy_54
+  - first:
+      213: -1340299295885433165
+    second: lifebar_enemy_55
+  - first:
+      213: 7197875181013662609
+    second: lifebar_enemy_56
+  - first:
+      213: -5088615244993963124
+    second: lifebar_enemy_57
+  - first:
+      213: -5085311008242547736
+    second: lifebar_enemy_58
+  - first:
+      213: -2835096990410450115
+    second: lifebar_enemy_59
+  - first:
+      213: 1502222350779192175
+    second: lifebar_enemy_60
+  - first:
+      213: -8761373848017809897
+    second: lifebar_enemy_61
+  - first:
+      213: -2394697027272261280
+    second: lifebar_enemy_62
+  - first:
+      213: 6023860449088837866
+    second: lifebar_enemy_63
+  - first:
+      213: 4974724759475750900
+    second: lifebar_enemy_64
+  - first:
+      213: 6381119220218308585
+    second: lifebar_enemy_65
+  - first:
+      213: -8120366620178461122
+    second: lifebar_enemy_66
+  - first:
+      213: -630902212049012755
+    second: lifebar_enemy_67
+  - first:
+      213: -3070794760273271083
+    second: lifebar_enemy_68
+  - first:
+      213: -2538102970405838985
+    second: lifebar_enemy_69
+  - first:
+      213: 8420928687691206523
+    second: lifebar_enemy_70
+  - first:
+      213: -6261312504060227414
+    second: lifebar_enemy_71
+  - first:
+      213: 4894053788124040770
+    second: lifebar_enemy_72
+  - first:
+      213: -4766332330562742938
+    second: lifebar_enemy_73
+  - first:
+      213: -3611560468438488663
+    second: lifebar_enemy_74
+  - first:
+      213: -5316972320380554380
+    second: lifebar_enemy_75
+  - first:
+      213: -1802035835880971749
+    second: lifebar_enemy_76
+  - first:
+      213: 7527180984922560744
+    second: lifebar_enemy_77
+  - first:
+      213: 4744470199811036497
+    second: lifebar_enemy_78
+  - first:
+      213: -8255292756573746769
+    second: lifebar_enemy_79
+  - first:
+      213: -6428329819227703217
+    second: lifebar_enemy_80
+  - first:
+      213: -5547644112009591950
+    second: lifebar_enemy_81
+  - first:
+      213: -8966532021765085011
+    second: lifebar_enemy_82
+  - first:
+      213: 455717349107555110
+    second: lifebar_enemy_83
+  - first:
+      213: 8658469683243136085
+    second: lifebar_enemy_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lifebar_enemy_0
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 655
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923a88cdef493470800000000000000
+      internalID: 8374812864762491539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 653
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e6bb0975938a10800000000000000
+      internalID: 1910535014055338822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 667
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0215142af1a5cab0800000000000000
+      internalID: -4988402916523699697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 654
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e015ca7074ea150800000000000000
+      internalID: 5885719861301153371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 667
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c845c74b60d7890800000000000000
+      internalID: -7458798035605877728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 654
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004618dcb96a797d0800000000000000
+      internalID: -2911675445973785600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_6
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 666
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62421e9f824e48f0800000000000000
+      internalID: -554432519520238994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 654
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85f10a3ae654e90800000000000000
+      internalID: -7042100793278768970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 666
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b461b7aef520d7d0800000000000000
+      internalID: -2895772784733887312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_9
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 654
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238a12dc889a7490800000000000000
+      internalID: -7747712478349720787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 666
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2720b59d346de60800000000000000
+      internalID: 7986645590002004664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_11
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 654
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d03996ffc2b4f10800000000000000
+      internalID: 2254945513928592791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 666
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab169727e5492f290800000000000000
+      internalID: -7858055266439700038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_13
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 653
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70a093f432246e60800000000000000
+      internalID: 7954520452663124093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_14
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 667
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caeb60cd99ebfd90800000000000000
+      internalID: -7062794726853055799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_15
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 655
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ac7e1a748cc740800000000000000
+      internalID: 5173655731974219512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_16
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 653
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4757744ec21c4a0800000000000000
+      internalID: -6574924622021167937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 641
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430be21f06c800f0800000000000000
+      internalID: -1150451936748960958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_18
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 639
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef4f10f9a3303b20800000000000000
+      internalID: 3112044147484086243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 638
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8364024c221270520800000000000000
+      internalID: 2668137737443362360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 638
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c0c139db9ee3e0800000000000000
+      internalID: -2022507825497848094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 638
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d2e43444b31120800000000000000
+      internalID: 2383446832847181166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 623
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da5d23f7107d5a50800000000000000
+      internalID: 6511483884413999832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_23
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 638
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d34d044716b7d0800000000000000
+      internalID: -2903107328745941676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_24
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 623
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e64afe80edee990800000000000000
+      internalID: -7354697011487805952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_25
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 638
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a79cd2493a05840800000000000000
+      internalID: 5210844625686329891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_26
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 638
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b48161b2a5479d0800000000000000
+      internalID: -2777495929079968906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_27
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 638
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9660c31b9220ec140800000000000000
+      internalID: 4741729835758126697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_28
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 640
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a59601018abd70800000000000000
+      internalID: 9059695441814596092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_29
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 639
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acbc25f559a4e5f0800000000000000
+      internalID: -728271053076513632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_30
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 642
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a2910460beaf0b0800000000000000
+      internalID: -5693980366778848713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 612
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4915534316aded560800000000000000
+      internalID: 7340544553683079572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_32
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 612
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e52a9ca251ab30800000000000000
+      internalID: 4296806420762190029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 625
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15716e844129ec3e0800000000000000
+      internalID: -2031525766077474991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_34
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 610
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2860c765ce43d0800000000000000
+      internalID: -3220419634122970123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_35
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 625
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5802b40c7614500800000000000000
+      internalID: 378697919267636693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_36
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 610
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fcb90ec274a970800000000000000
+      internalID: 8765257004022036299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd0f4d60f3f04290800000000000000
+      internalID: -7908052731710992958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_38
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 610
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85152b19e188633f0800000000000000
+      internalID: -921399408875908776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_39
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 623
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4741b56eaa5a4aa40800000000000000
+      internalID: 5378606008414966900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_40
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 611
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7476eb230fdc6720800000000000000
+      internalID: 2840890669678359677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_41
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 623
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a43d5dc71560f040800000000000000
+      internalID: 4679351165742036134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 610
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac38032f079c612d0800000000000000
+      internalID: -3308235389320264758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 611
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dbd04837bd0ada0800000000000000
+      internalID: -5935503019691098866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_44
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 611
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8195559ae8b59d140800000000000000
+      internalID: 4744924350695954712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_45
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 623
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e65a244bdb4970800000000000000
+      internalID: 8740320587657176218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_46
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 611
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74428daa379529730800000000000000
+      internalID: 4004361372008195143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_47
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 623
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4b13fcef0e1560800000000000000
+      internalID: 7286278757497393125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_48
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 610
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9452dea15de717d70800000000000000
+      internalID: 9039145380854179145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_49
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 624
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d8517b9f3502f0800000000000000
+      internalID: -1007329004793309385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_50
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 610
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1cc33a45fea46a0800000000000000
+      internalID: -6464091168341966392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_51
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 624
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2bdfef5243d20d0800000000000000
+      internalID: -3446040802072087876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_52
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 610
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0acb44cf7e6d10800000000000000
+      internalID: 2120772955599933172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_53
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 625
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885481a3c59e6ac50800000000000000
+      internalID: 6676280079944271240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_54
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 611
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998a2d4a730f7ec50800000000000000
+      internalID: 6694583492888668313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_55
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 626
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ea0044ec466de0800000000000000
+      internalID: -1340299295885433165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_56
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 612
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7be5575df3e360800000000000000
+      internalID: 7197875181013662609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1244
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5f73356b9169b0800000000000000
+      internalID: -5088615244993963124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_58
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 601
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c155c4985d69b0800000000000000
+      internalID: -5085311008242547736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_59
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 599
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b5ec6ee46b7a8d0800000000000000
+      internalID: -2835096990410450115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_60
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 598
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6398d7d447f8d410800000000000000
+      internalID: 1502222350779192175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_61
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 596
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e408ca7e8596680800000000000000
+      internalID: -8761373848017809897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_62
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 597
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c0c8cdb354ced0800000000000000
+      internalID: -2394697027272261280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_63
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 595
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae81774a92d099350800000000000000
+      internalID: 6023860449088837866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 595
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f784efbfc5c90540800000000000000
+      internalID: 4974724759475750900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_65
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 595
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a7864f1a4e8850800000000000000
+      internalID: 6381119220218308585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_66
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 595
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec25e1599ae4f80800000000000000
+      internalID: -8120366620178461122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_67
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 595
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77fc2e7c59e37f0800000000000000
+      internalID: -630902212049012755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_68
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 595
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e7cf6f685265d0800000000000000
+      internalID: -3070794760273271083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_69
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 595
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f989dbbc8d6ccd0800000000000000
+      internalID: -2538102970405838985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_70
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 596
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f0bb486062dd470800000000000000
+      internalID: 8420928687691206523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_71
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 598
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa057cf83795b19a0800000000000000
+      internalID: -6261312504060227414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_72
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 597
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec9c09dfb2be340800000000000000
+      internalID: 4894053788124040770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_73
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 598
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665195b9ff59addb0800000000000000
+      internalID: -4766332330562742938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_74
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 448
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a961e983e821edc0800000000000000
+      internalID: -3611560468438488663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_75
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 422
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f12b58d15636b0800000000000000
+      internalID: -5316972320380554380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_76
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 409
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b126ac174f1edf6e0800000000000000
+      internalID: -1802035835880971749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_77
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 392
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8526e993be57860800000000000000
+      internalID: 7527180984922560744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_78
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 382
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d92b628eb7d140800000000000000
+      internalID: 4744470199811036497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_79
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 367
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9019fe9fe4f6d80800000000000000
+      internalID: -8255292756573746769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_80
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 354
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48b1e1961cf9c6a0800000000000000
+      internalID: -6428329819227703217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_81
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 337
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738163a21fc203b0800000000000000
+      internalID: -5547644112009591950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_82
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 325
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e68702aa709380800000000000000
+      internalID: -8966532021765085011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_83
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 310
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd987b388035600800000000000000
+      internalID: 455717349107555110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifebar_enemy_84
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 285
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55432386d40192870800000000000000
+      internalID: 8658469683243136085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lifebar_enemy_0: 8374812864762491539
+      lifebar_enemy_1: 1910535014055338822
+      lifebar_enemy_10: 7986645590002004664
+      lifebar_enemy_11: 2254945513928592791
+      lifebar_enemy_12: -7858055266439700038
+      lifebar_enemy_13: 7954520452663124093
+      lifebar_enemy_14: -7062794726853055799
+      lifebar_enemy_15: 5173655731974219512
+      lifebar_enemy_16: -6574924622021167937
+      lifebar_enemy_17: -1150451936748960958
+      lifebar_enemy_18: 3112044147484086243
+      lifebar_enemy_19: 2668137737443362360
+      lifebar_enemy_2: -4988402916523699697
+      lifebar_enemy_20: -2022507825497848094
+      lifebar_enemy_21: 2383446832847181166
+      lifebar_enemy_22: 6511483884413999832
+      lifebar_enemy_23: -2903107328745941676
+      lifebar_enemy_24: -7354697011487805952
+      lifebar_enemy_25: 5210844625686329891
+      lifebar_enemy_26: -2777495929079968906
+      lifebar_enemy_27: 4741729835758126697
+      lifebar_enemy_28: 9059695441814596092
+      lifebar_enemy_29: -728271053076513632
+      lifebar_enemy_3: 5885719861301153371
+      lifebar_enemy_30: -5693980366778848713
+      lifebar_enemy_31: 7340544553683079572
+      lifebar_enemy_32: 4296806420762190029
+      lifebar_enemy_33: -2031525766077474991
+      lifebar_enemy_34: -3220419634122970123
+      lifebar_enemy_35: 378697919267636693
+      lifebar_enemy_36: 8765257004022036299
+      lifebar_enemy_37: -7908052731710992958
+      lifebar_enemy_38: -921399408875908776
+      lifebar_enemy_39: 5378606008414966900
+      lifebar_enemy_4: -7458798035605877728
+      lifebar_enemy_40: 2840890669678359677
+      lifebar_enemy_41: 4679351165742036134
+      lifebar_enemy_42: -3308235389320264758
+      lifebar_enemy_43: -5935503019691098866
+      lifebar_enemy_44: 4744924350695954712
+      lifebar_enemy_45: 8740320587657176218
+      lifebar_enemy_46: 4004361372008195143
+      lifebar_enemy_47: 7286278757497393125
+      lifebar_enemy_48: 9039145380854179145
+      lifebar_enemy_49: -1007329004793309385
+      lifebar_enemy_5: -2911675445973785600
+      lifebar_enemy_50: -6464091168341966392
+      lifebar_enemy_51: -3446040802072087876
+      lifebar_enemy_52: 2120772955599933172
+      lifebar_enemy_53: 6676280079944271240
+      lifebar_enemy_54: 6694583492888668313
+      lifebar_enemy_55: -1340299295885433165
+      lifebar_enemy_56: 7197875181013662609
+      lifebar_enemy_57: -5088615244993963124
+      lifebar_enemy_58: -5085311008242547736
+      lifebar_enemy_59: -2835096990410450115
+      lifebar_enemy_6: -554432519520238994
+      lifebar_enemy_60: 1502222350779192175
+      lifebar_enemy_61: -8761373848017809897
+      lifebar_enemy_62: -2394697027272261280
+      lifebar_enemy_63: 6023860449088837866
+      lifebar_enemy_64: 4974724759475750900
+      lifebar_enemy_65: 6381119220218308585
+      lifebar_enemy_66: -8120366620178461122
+      lifebar_enemy_67: -630902212049012755
+      lifebar_enemy_68: -3070794760273271083
+      lifebar_enemy_69: -2538102970405838985
+      lifebar_enemy_7: -7042100793278768970
+      lifebar_enemy_70: 8420928687691206523
+      lifebar_enemy_71: -6261312504060227414
+      lifebar_enemy_72: 4894053788124040770
+      lifebar_enemy_73: -4766332330562742938
+      lifebar_enemy_74: -3611560468438488663
+      lifebar_enemy_75: -5316972320380554380
+      lifebar_enemy_76: -1802035835880971749
+      lifebar_enemy_77: 7527180984922560744
+      lifebar_enemy_78: 4744470199811036497
+      lifebar_enemy_79: -8255292756573746769
+      lifebar_enemy_8: -2895772784733887312
+      lifebar_enemy_80: -6428329819227703217
+      lifebar_enemy_81: -5547644112009591950
+      lifebar_enemy_82: -8966532021765085011
+      lifebar_enemy_83: 455717349107555110
+      lifebar_enemy_84: 8658469683243136085
+      lifebar_enemy_9: -7747712478349720787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c9bec5a3f0e541d499c129c29bed78f6
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Pixelisation_OilPaint.shader
+  uploadId: 399766

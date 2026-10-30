@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3e381c7a3f6ae97438b1cd58a186aec1
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_DarkMatter.shader
+  uploadId: 399766

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52c97a505457a9c4a9090a94d1701247
+timeCreated: 1450128681
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/EditorResources/Textures/NE_GUI.xcf
+  uploadId: 399771

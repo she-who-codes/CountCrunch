@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b01734521f0b2ae4dbb544a091d0be67
+timeCreated: 1470622978
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71173
+  packageName: Particle Collection SKJ 2016 (full version)
+  packageVersion: 1.9
+  assetPath: Assets/Particlecollection/Plugins/Effect/Editor/XUIUtils.cs
+  uploadId: 209749

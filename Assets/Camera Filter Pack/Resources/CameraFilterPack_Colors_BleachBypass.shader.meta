@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f34d8857d49983b4eaec29517431b645
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Colors_BleachBypass.shader
+  uploadId: 399766

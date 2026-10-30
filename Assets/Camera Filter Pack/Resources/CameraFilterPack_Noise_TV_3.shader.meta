@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b37bd869511525344953f31f30747b4d
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Noise_TV_3.shader
+  uploadId: 399766

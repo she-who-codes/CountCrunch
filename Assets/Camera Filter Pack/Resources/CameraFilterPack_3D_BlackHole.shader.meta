@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44b0292e04dc2ed40a92a6d7106be536
+timeCreated: 1467618875
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_BlackHole.shader
+  uploadId: 399766

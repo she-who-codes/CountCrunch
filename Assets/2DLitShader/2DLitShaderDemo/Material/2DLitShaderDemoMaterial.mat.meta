@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2094f6d8b7a173949aa68bf4181bd0cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17756
+  packageName: 2D Lit Shader
+  packageVersion: 1.0.1
+  assetPath: Assets/2DLitShader/2DLitShaderDemo/Material/2DLitShaderDemoMaterial.mat
+  uploadId: 6584

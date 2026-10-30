@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5912046098077224b956c995fdce6d5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16167
+  packageName: Liquid Toon VFX Texture Pack
+  packageVersion: 1.1
+  assetPath: Assets/Textures/Sprites/LiquidToonPack/Examples/exampleEffect_ballsOfPaint.prefab
+  uploadId: 35977

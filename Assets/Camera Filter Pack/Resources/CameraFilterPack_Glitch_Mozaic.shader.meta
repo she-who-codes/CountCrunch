@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8ce8dbb99983d194db22ab4474320b8f
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Glitch_Mozaic.shader
+  uploadId: 399766

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad69e3b8aec33a848ab38d9160cedbd4
+timeCreated: 1541759310
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/Palette4Swapping.mat
+  uploadId: 399771

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 701c923fbe135934d8f6a484ab492d4e
+timeCreated: 1503049782
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/Shadero_Projects/FireLight.asset
+  uploadId: 399771

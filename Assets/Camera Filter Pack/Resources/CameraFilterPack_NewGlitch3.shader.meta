@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c02e11c746346e0468f8a717d460ba5f
+timeCreated: 1524557710
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_NewGlitch3.shader
+  uploadId: 399766

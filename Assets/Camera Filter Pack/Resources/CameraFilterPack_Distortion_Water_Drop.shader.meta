@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c8563bb8f35543e4199e8bd64a32eeef
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Distortion_Water_Drop.shader
+  uploadId: 399766

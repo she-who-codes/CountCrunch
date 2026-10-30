@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3a8023d6da7ed334cb961f8bba1ae95a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_AAA_SuperHexagon.shader
+  uploadId: 399766

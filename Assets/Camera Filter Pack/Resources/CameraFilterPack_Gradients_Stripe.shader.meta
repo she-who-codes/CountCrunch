@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b9eea281b1dfd1349b12c700a897389b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Gradients_Stripe.shader
+  uploadId: 399766

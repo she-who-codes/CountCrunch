@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b7249e2f5b5bdc44aad0563a4592fa1d
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Drawing_EnhancedComics.shader
+  uploadId: 399766

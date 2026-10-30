@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85500abcf1b471d46a6e88c017573749
+timeCreated: 1470126968
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_ColorKey.shader
+  uploadId: 399766

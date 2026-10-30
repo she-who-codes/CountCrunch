@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 95b4324a84b689743a2d4c5de417391c
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Oculus_NightVision1.shader
+  uploadId: 399766

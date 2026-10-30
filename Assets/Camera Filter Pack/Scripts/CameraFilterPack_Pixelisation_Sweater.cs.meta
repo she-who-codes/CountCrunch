@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9772e312d301c844b9a4dbf70f673dc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Pixelisation_Sweater.cs
+  uploadId: 399766

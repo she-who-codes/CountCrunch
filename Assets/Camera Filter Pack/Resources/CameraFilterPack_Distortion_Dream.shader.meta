@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7af1c2a7e3d2f9341a0d1ad201a4b2d7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Distortion_Dream.shader
+  uploadId: 399766

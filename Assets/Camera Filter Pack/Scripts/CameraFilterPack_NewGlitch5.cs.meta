@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 93e06e60c273d8545a25a4a26440441f
+timeCreated: 1524559637
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_NewGlitch5.cs
+  uploadId: 399766

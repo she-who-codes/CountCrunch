@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53af48f6e86595a4a9cea93eaf79387f
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MainTex2: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_AAA_WaterDropPro.shader
+  uploadId: 399766

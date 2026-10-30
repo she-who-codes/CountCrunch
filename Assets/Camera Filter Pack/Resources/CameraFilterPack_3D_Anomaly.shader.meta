@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be01bfcf5ba4f04419924b91e76a9b37
+timeCreated: 1467724271
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_Anomaly.shader
+  uploadId: 399766

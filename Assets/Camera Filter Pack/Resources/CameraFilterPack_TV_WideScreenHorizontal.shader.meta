@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f9175d598df1d3b4292b1c2cd9bfcfe3
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_WideScreenHorizontal.shader
+  uploadId: 399766

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1993bfeacfe17b145bd0ea096c9444e7
+timeCreated: 1503090485
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Animations/TCG_Card.controller
+  uploadId: 399771

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 71e1dd7f09abbd948a98634fa2b0fa9d
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Color_Chromatic_Aberration.shader
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 589c1cbd9bd36af4cbb12d1f8ae9bc94
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Vision_Psycho.shader
+  uploadId: 399766

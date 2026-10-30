@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da0ca1586b442564188fde9af4de39a2
+timeCreated: 1542991463
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Earth.unity
+  uploadId: 399771

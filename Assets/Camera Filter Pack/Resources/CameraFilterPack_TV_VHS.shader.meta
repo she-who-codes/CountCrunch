@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: afd1ed5665bf72c4ca117c50058e1664
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_VHS.shader
+  uploadId: 399766

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 08c8e6f05e7b2ab49af1f897a347cbc9
+timeCreated: 1488271817
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MainTex2: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Glasses_OnX.shader
+  uploadId: 399766

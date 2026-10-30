@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 967b2c228a173ca4987a8e3bf1118df2
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_Artefact.shader
+  uploadId: 399766

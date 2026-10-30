@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 90169b2dc1656d345b03de189509cdc3
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Edge_Sigmoid.shader
+  uploadId: 399766

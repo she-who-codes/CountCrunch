@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 075c2b3a5013d8d45a9c4c48b7662b6f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Vision_Blood.cs
+  uploadId: 399766

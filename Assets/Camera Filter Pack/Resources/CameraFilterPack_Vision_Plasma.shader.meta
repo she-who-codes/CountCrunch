@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 05aac99b3281a6a4e87dc1c6d55146e7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Vision_Plasma.shader
+  uploadId: 399766

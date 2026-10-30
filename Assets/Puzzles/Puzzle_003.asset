@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a75c551969d0e2840a027f5a8f1595bb, type: 3}
+  m_Name: Puzzle_003
+  m_EditorClassIdentifier: 
+  puzzleID: 3
+  difficulty: 1
+  puzzleName: Puzzle_003
+  pumpkinPosition: {x: -0.82, y: 4.13}
+  blocks:
+  - type: 0
+    role: 0
+    position: {x: -2.43, y: -0.23}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: 0.5, y: -0.23}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0
+  - type: 2
+    role: 0
+    position: {x: -0.17, y: 1.24}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    critical: 0
+  - type: 2
+    role: 0
+    position: {x: -1.58, y: 1.24}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    critical: 0
+  - type: 0
+    role: 0
+    position: {x: -0.84, y: 2.67}
+    rotation: 0
+    scale: {x: 0.71274, y: 0.71274}
+    critical: 0

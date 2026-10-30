@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91ef5ffa475692145a96308e7a9ba0ec
+timeCreated: 1503083432
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/TCG-card.shader
+  uploadId: 399771

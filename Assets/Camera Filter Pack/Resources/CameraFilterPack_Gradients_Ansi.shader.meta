@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ac0b001290e7a86498ab090a3dfc388a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Gradients_Ansi.shader
+  uploadId: 399766

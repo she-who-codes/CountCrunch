@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fe692d7bad0b04849951cdfa495e4ed5
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_Luminosity.shader
+  uploadId: 399766

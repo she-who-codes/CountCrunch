@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 870979ffebfabc34f87bfa16adff1111
+timeCreated: 1461135493
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_AAA_Blood_Hit.cs
+  uploadId: 399766

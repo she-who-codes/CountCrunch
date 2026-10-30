@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6e5ab602ee285d04c819bf6413d9b758
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Gradients_Hue.shader
+  uploadId: 399766

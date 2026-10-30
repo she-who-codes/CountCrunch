@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57ebe8324f455fe48834b7520c4c2ce9
+timeCreated: 1503238438
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Sprites/TextCard.renderTexture
+  uploadId: 399771

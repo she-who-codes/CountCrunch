@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db879b679c7f6ae478b035b1004930b0
+timeCreated: 1518286550
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/Shadero_Slim.shader
+  uploadId: 399771

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff7f91b939ae6d94db540d2ee38349fe
+timeCreated: 1450128681
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/EditorResources/Textures/Knobs.xcf
+  uploadId: 399771

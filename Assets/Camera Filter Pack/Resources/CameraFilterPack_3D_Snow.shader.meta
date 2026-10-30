@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f4090ffea4d1ab4cb548bad1e5778ed
+timeCreated: 1467625682
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_3D_Snow.shader
+  uploadId: 399766

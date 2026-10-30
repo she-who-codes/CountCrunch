@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5bd443f9cc18ca4092e59b57ce895a5
+timeCreated: 1503304236
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/Diamond_Light.shader
+  uploadId: 399771

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b1c080a762779445a4fb085a9140b99
+timeCreated: 1536002252
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/Editor/New Scene.unity
+  uploadId: 399771

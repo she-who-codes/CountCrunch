@@ -1,0 +1,87 @@
+skeleton_boy_mesh_updated_rig.png
+size:1220,504
+filter:Linear,Linear
+pma:true
+Group 1
+bounds:878,196,306,46
+offsets:3,2,312,50
+rotate:90
+Group 2
+bounds:1146,145,26,52
+offsets:1,1,28,54
+Group 3
+bounds:994,246,73,80
+offsets:1,1,75,82
+Group 4
+bounds:709,18,109,92
+offsets:2,3,114,98
+Group 5
+bounds:926,244,66,82
+offsets:3,2,72,87
+forearm left
+bounds:1059,196,48,66
+offsets:1,1,50,68
+rotate:90
+head
+bounds:550,112,326,390
+offsets:0,7,326,397
+hip
+bounds:1083,48,146,61
+offsets:1,1,148,63
+rotate:90
+left hand
+bounds:1069,255,67,79
+offsets:1,1,69,81
+left hand_pumpkin
+bounds:926,328,127,174
+left shoe
+bounds:1138,261,73,39
+offsets:1,1,75,41
+rotate:90
+left thigh
+bounds:593,13,45,97
+offsets:1,1,47,99
+left_eye_lid
+bounds:820,22,88,67
+rotate:90
+pound
+bounds:2,4,546,498
+pupil left
+bounds:1146,52,37,37
+offsets:1,1,39,39
+pupil right
+bounds:1174,164,24,33
+offsets:1,1,26,35
+reflection left
+bounds:1139,5,41,41
+offsets:1,1,43,43
+reflections right
+bounds:1182,15,22,35
+offsets:1,1,24,37
+right arm
+bounds:640,14,67,96
+offsets:1,1,69,98
+right arm forearm
+bounds:1127,199,61,54
+offsets:1,1,63,56
+right calf
+bounds:1146,91,26,52
+offsets:1,1,28,54
+right hand
+bounds:926,197,131,45
+offsets:1,1,133,47
+right shoe
+bounds:1179,261,73,39
+offsets:1,1,75,41
+rotate:90
+right thigh
+bounds:550,6,41,104
+offsets:1,1,43,106
+right_eye_lid
+bounds:1083,2,44,54
+rotate:90
+torso
+bounds:1055,336,146,166
+wandglow
+bounds:889,2,192,192
+offsets:1,1,194,194

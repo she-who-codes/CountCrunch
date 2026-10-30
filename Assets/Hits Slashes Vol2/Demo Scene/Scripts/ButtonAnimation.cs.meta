@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6404012cbb137e74bb69995f5bd85499
+timeCreated: 1512933755
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76522
+  packageName: Hits & Slashes Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Hits Slashes Vol2/Demo Scene/Scripts/ButtonAnimation.cs
+  uploadId: 217613

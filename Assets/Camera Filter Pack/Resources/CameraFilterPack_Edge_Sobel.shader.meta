@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0aa352d1ebf96334ea43c58fed18e22b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Edge_Sobel.shader
+  uploadId: 399766

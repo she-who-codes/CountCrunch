@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bccada4cbcabfd147a3a1d5dd8679638
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_Dot_Circle.shader
+  uploadId: 399766

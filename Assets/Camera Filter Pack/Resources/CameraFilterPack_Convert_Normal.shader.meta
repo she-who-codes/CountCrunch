@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3d46a987c70af545a29ffb0223fcb7e
+timeCreated: 1481051546
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Convert_Normal.shader
+  uploadId: 399766

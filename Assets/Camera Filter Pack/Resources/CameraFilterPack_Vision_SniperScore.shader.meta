@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7c6f9226f5b77234790ddf190ba9ff06
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Vision_SniperScore.shader
+  uploadId: 399766

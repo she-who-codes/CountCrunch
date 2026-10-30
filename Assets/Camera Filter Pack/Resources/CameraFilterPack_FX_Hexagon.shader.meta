@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 56b597c887c296e44a731844d07508da
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_Hexagon.shader
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 08497a6252e7170419ba982099999ccf
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_Divide.shader
+  uploadId: 399766

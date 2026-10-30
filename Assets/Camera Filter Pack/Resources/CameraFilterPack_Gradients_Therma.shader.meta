@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b07c3684d1221f64ca9d1e40ff36051f
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Gradients_Therma.shader
+  uploadId: 399766

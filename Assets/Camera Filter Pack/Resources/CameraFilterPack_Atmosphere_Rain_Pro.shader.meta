@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99860c2f557dc344dbc80db6863627c5
+timeCreated: 1464254259
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Atmosphere_Rain_Pro.shader
+  uploadId: 399766

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cec6dee92560990469dfd705060e20df
+timeCreated: 1503330701
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/readme.txt.txt
+  uploadId: 399771

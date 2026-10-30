@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cd501b5ab891000418796acf1e71132a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_Old.shader
+  uploadId: 399766

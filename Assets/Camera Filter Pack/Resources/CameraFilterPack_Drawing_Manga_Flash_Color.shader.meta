@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6453c5de383d702428c215f2a0b4724a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Drawing_Manga_Flash_Color.shader
+  uploadId: 399766

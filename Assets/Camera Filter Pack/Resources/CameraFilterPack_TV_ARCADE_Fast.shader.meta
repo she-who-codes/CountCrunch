@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 683c8c04f11e65641849d72d5a2c6c35
+timeCreated: 1461140688
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_ARCADE_Fast.shader
+  uploadId: 399766

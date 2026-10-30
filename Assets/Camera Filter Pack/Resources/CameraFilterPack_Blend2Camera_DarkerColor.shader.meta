@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3cb7e07666eef104abc031dc5844263a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_DarkerColor.shader
+  uploadId: 399766

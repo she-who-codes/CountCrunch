@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eca9a753c7d234f4c95725f726dbe9ea
+timeCreated: 1533722713
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/InfiniteEnergy.shader
+  uploadId: 399771

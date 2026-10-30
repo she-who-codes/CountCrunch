@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 372214840551e4b43bede0482aa529d0
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blend2Camera_Exclusion.shader
+  uploadId: 399766

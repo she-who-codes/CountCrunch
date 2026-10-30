@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ae2dbf865da8ec4cac436c182c67e7d
+timeCreated: 1503049574
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Examples/Shaders/FireCircle.shader
+  uploadId: 399771

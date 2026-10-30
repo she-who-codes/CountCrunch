@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d658b29263c0b634f91e0c3e2ab33459
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_AAA_SuperComputer.shader
+  uploadId: 399766

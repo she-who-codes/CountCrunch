@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6728733a83837f54eafb76e044d2fd52
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Blur_DitherOffset.shader
+  uploadId: 399766

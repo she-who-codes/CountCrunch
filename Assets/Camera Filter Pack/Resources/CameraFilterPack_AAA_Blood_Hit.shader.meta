@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6cc00edd36b82f4ba64510febb20d71
+timeCreated: 1461137272
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MainTex2: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_AAA_Blood_Hit.shader
+  uploadId: 399766

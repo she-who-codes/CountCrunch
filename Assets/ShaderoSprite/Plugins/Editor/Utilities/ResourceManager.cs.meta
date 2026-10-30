@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0f08033ef2f59496e9dec73866e5d118
+timeCreated: 1497619467
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97406
+  packageName: Shadero Sprite - 2D Shader Editor
+  packageVersion: 1.9.9
+  assetPath: Assets/ShaderoSprite/Plugins/Editor/Utilities/ResourceManager.cs
+  uploadId: 399771

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8d53d44b3840a624386c400ac88835fd
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_TV_WideScreenHV.shader
+  uploadId: 399766

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6c695e131cd5f0d418487301626260ac
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Colors_DarkColor.shader
+  uploadId: 399766

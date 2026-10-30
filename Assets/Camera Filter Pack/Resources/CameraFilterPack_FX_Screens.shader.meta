@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6c8d0286465d4bb4ca70eeced3e4f57d
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_Screens.shader
+  uploadId: 399766

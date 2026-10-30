@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a9c92f4c51f8b16479d2dd1c3048b435
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Colors_Brightness.shader
+  uploadId: 399766

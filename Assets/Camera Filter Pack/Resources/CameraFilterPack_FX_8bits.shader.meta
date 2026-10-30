@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b1debf59680ac7847a2856a18a0fdb1b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_FX_8bits.shader
+  uploadId: 399766

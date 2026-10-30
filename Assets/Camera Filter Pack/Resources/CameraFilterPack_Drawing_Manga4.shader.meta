@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ad0598eef96c78f4d84a597ce034249e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Resources/CameraFilterPack_Drawing_Manga4.shader
+  uploadId: 399766

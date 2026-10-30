@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3338a47632e7d5f48b5f76fb545afad7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18433
+  packageName: Camera Filter Pack
+  packageVersion: 4.1.0
+  assetPath: Assets/Camera Filter Pack/Scripts/CameraFilterPack_Pixelisation_Dot.cs
+  uploadId: 399766
